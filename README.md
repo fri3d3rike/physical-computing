@@ -22,7 +22,7 @@ Tell us something about your project here.
 
 ## Weekly Reports
 
-Create a file called `PhysComp SS/WS<YY> Group <X> Week <N>.md` for every weekly report in `Weekly Reports`. For example: `PhysComp WS22 Group 2 Week 3.md`.
+Create a file called `PhysComp SS/WS<YY> Group <XX> Assignment <NN>.md` for every weekly assigment in `Weekly Reports`. For example: `PhysComp WS22 Group 02 Week 03.md`. Strictly follow this naming scheme and do not change it!
 If you include pictures of videos, put them in `Weekly Reports/Figures`.
 
 ## Repository
