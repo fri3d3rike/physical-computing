@@ -1,4 +1,4 @@
-# PhysComp WS/SS\<YY\> Group \<XX\> - Assignment \<NN\>
+# PhysComp WS/SS\<YY\> Group \<XX\> - Week \<NN\>
 
 ## Progress Report
 
