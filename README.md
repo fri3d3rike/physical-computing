@@ -1,12 +1,12 @@
-# Physical Computing SS|WS\<YY\> - Group \<X\>
+# Physical Computing SS23 - Group 09
 
 ## Who we are
 
-Introduce yourself here. Include some photos.
+We are Friederike SURNAME and Mirza Özokyay. Friederike is a Bachelor's student and has experience in UX design. Mirza is a Master's student and is familiar with electronics.
 
 ## Topic
 
-Tell us something about your project here.
+We have not decided on a project yet. Candidates are the presentation timer, the telepresence system or maybe a new idea by us.
 
 ## Repository Structure
 
@@ -22,7 +22,7 @@ Tell us something about your project here.
 
 ## Weekly Reports
 
-Create a file called `PhysComp SS/WS<YY> Group <XX> Week <NN>.md` for every weekly assigment in `Weekly Reports`. For example: `PhysComp WS22 Group 02 Week 03.md`. Strictly follow this naming scheme and do not change it!
+Create a file called `PhysComp SS23 Group 09 Week <NN>.md` for every weekly assigment in `Weekly Reports`. For example: `PhysComp WS23 Group 02 Week 03.md`. Strictly follow this naming scheme and do not change it!
 If you include pictures of videos, put them in `Weekly Reports/Figures`.
 
 ## Repository
