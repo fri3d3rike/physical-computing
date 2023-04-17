@@ -2,7 +2,7 @@
 
 ## Who we are
 
-![Mirza](Weekly Updates/Figures/mirza.png)
+![Mirza](Weekly Reports/Figures/mirza.jpg)
 
 We are Friederike Körte and Mirza Özokyay. Friederike is a Bachelor's student currently starting her advanced studies. Mirza is a Master's student and is familiar with electronics. 
 
