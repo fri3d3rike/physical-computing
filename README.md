@@ -4,7 +4,8 @@
 
 ![Mirza](Weekly Reports/Figures/mirza.jpg)
 
-<img src="Weekly Reports/Figures/Friederike.jpeg" width = "50%">
+
+![Friederike](Weekly Reports/Figures/friederike.jpg)
 
 
 
