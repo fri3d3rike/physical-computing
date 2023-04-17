@@ -4,7 +4,7 @@
 
 ### What we achieved this week
 
-We added the descriptions of ourselfs and our preferred topics.
+We discussed the possible project ideas, picked our two favorits and brainstormed on how to implement and develop them. We also added descriptions and photos of ourselfs.
 
 ### What we could not achieve this week
 
