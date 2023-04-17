@@ -1,4 +1,4 @@
-# PhysComp SS\<23\> Group \<09\> - Week \<01\>
+# PhysComp SS23 Group 09 - Week 01
 
 ## Progress Report
 
