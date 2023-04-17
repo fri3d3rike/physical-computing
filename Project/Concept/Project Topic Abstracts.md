@@ -2,30 +2,25 @@
 
 ## Preference 1
 
-The physics of time
+### The physics of time
 
-* An alarm clock that can also be used as a timer for presentations
-* It features physical buttons or dials for setting the time
-* It features a smartphone holder
-* Putting a smartphone into the holder activates the alarm clock or timer (depending on the desired use case)
-* When the time is up, a spring mechanism ejects the smartphone
-* This way, the user is motivated to get out of bed or finish their presentation because they have to catch their smartphone
-* Otherwise, the smartphne might take damage when it hits the floor
-* There are probably not many people interested in actually using such an alarm clock
-* But it can function as a piece of art, highlighting people's dependence on their smartphone
-* If our prototype works, the concept can be applied to less fragile objects
-* For example, to motivate people to get up every hour when sitting on a desk by throwing something for them to catch
-* The remaining time should be displayed in some way
-* An alarm should indicate that the object is about to be launched
-* There are obviously physical and computing components
-* The project can be realized with a GPIO-enabled microcontroller, a motor, a spring and small amounts of wood
-* If the time is not set via an app, there need to be dials
-* The set/remaining time is shown via LEDs
-* A buzzer indicates that the time is almost up
-* Smalll electronical components: Resistors, transistors, jumper wires, breadboard
+For this topic, we propose a timer that forces students to respond to it, e.g. for finishing a presentation in time. This device can also be used as an alarm clock. On the physical side, the device has some way of notifying that the time is almost up. There should be at least a speaker or buzzer for making a noise. Additionally, one or multiple LEDs could visually indicate the remaining time. Also, the device should have the form of a smartphone holder. In order to force the user to respond to it, the smartphone gets ejected via a motor-controlled spring mechanism when the time is up. This way, students are forced to finish their presentations or get out of bed in time, because they have to catch their smartphone. For convenience, the timer should automatically activate when the smartphone gets placed in the holder. On the computing side, the operation mode (timer or alarm clock) as well as the time can comfortably be set via a smartphone (web app).
 
-Write a paper-style abstract of a topic. Include details on what **scenario** your prototype would be used in, who the **users** are, and how the **project requirements** (specified in the Topics slides) will be fulfilled. Also think about how the project could be realized as a prototype.
+There are probably not many people interested in having their smartphone taken hostage and risking to damage it. However, this project can function as a piece of art, highlighting people's dependence on their smartphone. Also, the general concept can be applied to less fragile objects. For example, by launching a ball every hour. If the ball is aimed away from you, you would have to get up from your desk, resulting in a healthy break.
+
+This project fulfills all requirements: It has interaction in both ways, is multimodal, has a physical and computational side and displays the remaining time.
+
+A simple protoype can be created from a few pieces of wood and a spring. There are only a few electronical components required: A computer featuring GPIO and WiFi, e.g. the Raspberry Pi, a motor, a buzzer/speaker, a breadboard, jumper wires, LEDs, resistors and transistors or optocouplers.
 
 ## Preference 2
 
-Telepresence, mouse, whatever
+### Telepresence system
+
+The target group for the telepresence device is professionals who attend hybrid meetings, where some participants are physically present in the meeting room, and others join remotely. The device is particularly useful for remote participants who need to actively engage in the meeting but cannot be physically present and enables them to participate as if they were present in the meeting room. Of course the device can also be used outside of the meeting room for any kind of videochat, personal use or similar activities.
+
+The device should be able to rotate automatically look at interesting regions, such as following a person's face while not making too much noise. It should also be able to hold various sizes of tablets or phones securely in place. Additionally, it should have features such as audio and video capabilities.
+It should be easy to set up and use and adaptable to different meeting spaces.
+The device should be compact and easy to transport so that it fits on a table or desk and blends in with the meeting space. 
+
+The device would require a motorized base that can rotate to follow the remote user's movements. It would also require a tablet or phone holder that can be adjusted to hold various sizes of devices securely. The device would need to be powered by a (rechargeable) battery, and it should be controlled using a mobile app or a web-based interface. The audio and video quality would depend on the tablet or phone's camera and microphone.
+
