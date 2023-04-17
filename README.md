@@ -4,7 +4,9 @@
 
 ![Mirza](Weekly Reports/Figures/mirza.jpg)
 
-![Friederike](Weekly Reports/Figures/Friederike.jpeg)
+<img src="Weekly Reports/Figures/Friederike.jpeg" width = "50%">
+
+
 
 We are Friederike Körte and Mirza Özokyay. Friederike is a Bachelor's student currently starting her advanced studies. Mirza is a Master's student and is familiar with electronics. 
 
