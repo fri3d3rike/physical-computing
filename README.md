@@ -2,11 +2,11 @@
 
 ## Who we are
 
-We are Friederike SURNAME and Mirza Özokyay. Friederike is a Bachelor's student and has experience in UX design. Mirza is a Master's student and is familiar with electronics.
+We are Friederike SURNAME and Mirza Özokyay. Friederike is a Bachelor's student and has experience in interactive systems. Mirza is a Master's student and is familiar with electronics.
 
 ## Topic
 
-We have not decided on a project yet. Candidates are the presentation timer, the telepresence system or maybe a new idea by us.
+The topic selection is pending.
 
 ## Repository Structure
 
