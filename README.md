@@ -2,7 +2,7 @@
 
 ## Who we are
 
-We are Friederike SURNAME and Mirza Özokyay. Friederike is a Bachelor's student and has experience in interactive systems. Mirza is a Master's student and is familiar with electronics.
+We are Friederike Körte and Mirza Özokyay. Friederike is a Bachelor's student currently starting her advanced studies. Mirza is a Master's student and is familiar with electronics. 
 
 ## Topic
 
