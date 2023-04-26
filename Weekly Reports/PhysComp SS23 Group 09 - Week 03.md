@@ -46,7 +46,7 @@ We collected pictures from the real world related to our topic
 
 ##### Scenarios
 
-![Office](Figures/office.jpg)
+![Office](Figures/office.jpg){width=40%}
 
 ![Kitchen](Figures/kitchen.jpg)
 
