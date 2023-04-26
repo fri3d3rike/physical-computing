@@ -44,9 +44,11 @@ We collected pictures from the real world related to our topic
 
 ![Wheels2](Figures/wheels2.jpg)
 
-##### Scenarios
+##### Office Conference Scenario: One participant is only partly visible
 
 ![Office](Figures/office.jpg){width=40%}
+
+##### Kitchen scenario: Videocall
 
 ![Kitchen](Figures/kitchen.jpg)
 
