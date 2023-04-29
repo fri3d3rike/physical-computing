@@ -36,13 +36,12 @@ We collected pictures from the real world related to our topic
 
 ##### Smartphone holder
 
-![Smartphoneholder](Figures/smartphoneholder.jpg)
+![Smartphoneholder](Figures/holder.jpg){width=40%}
 
 ##### Wheels
 
-![Wheels1](Figures/wheels1.jpg)
+![Wheels1](Figures/wheels.jpg){width=40%}
 
-![Wheels2](Figures/wheels2.jpg)
 
 ##### Office Conference Scenario: One participant is only partly visible
 
@@ -50,7 +49,7 @@ We collected pictures from the real world related to our topic
 
 ##### Kitchen scenario: Videocall
 
-![Kitchen](Figures/kitchen.jpg)
+![Kitchen](Figures/kitchen.jpg){width=40%}
 
 
 
