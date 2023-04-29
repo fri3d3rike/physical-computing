@@ -40,7 +40,7 @@ We collected pictures from the real world related to our topic. The smartphone h
 
 ##### Wheels
 
-![Wheels1](Figures/wheels.jpg){width=40%}
+![Wheels1](Figures/wheel.jpg){width=40%}
 
 
 ##### Office Conference Scenario: One participant is only partly visible
