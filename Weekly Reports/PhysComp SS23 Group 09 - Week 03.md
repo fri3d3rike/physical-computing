@@ -32,7 +32,7 @@ We brainstormed on the rough design and came up with a solution that should be f
 
 
 #### Sample the world
-We collected pictures from the real world related to our topic 
+We collected pictures from the real world related to our topic. The smartphone holder and wheels are objects that can be combined for our device. The offic conference and kitchen are scenarios in which our device could be helpful.
 
 ##### Smartphone holder
 
