@@ -42,6 +42,9 @@ We collected pictures from the real world related to our topic. The smartphone h
 
 ![Wheels1](Figures/wheel.jpg){width=40%}
 
+![Wheels2](Figures/wheel2.jpg){width=10%}
+
+
 
 ##### Office Conference Scenario: One participant is only partly visible
 
