@@ -16,7 +16,7 @@ During the the process we had the idea of using 2 different colored LEDs to sign
 
 #### Updated Sketch 
 
-![Sketch Connection](Figures/SketchConnection.jpg)
+![Sketch Connection](Figures/SketchConnectionLight.jpg)
 
 ![Prototype connected](Figures/prototype_connected.jpg)
 
