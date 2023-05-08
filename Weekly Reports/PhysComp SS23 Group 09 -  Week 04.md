@@ -8,9 +8,9 @@ We created a first paper prototype in class using cardboards, hot glue and plast
 
 #### First Physical Prototype
 
-![Prototype](Figures/paperprototype.jpg)  
+![Prototype](Figures/paperprototype.jpg)  {width=60%}
 
-![Prototype Sideview](Figures/paperprototype_side.jpg)  
+![Prototype Sideview](Figures/paperprototype_side.jpg)  {width=60%}
 
 During the the process we had the idea of using 2 different colored LEDs to signal the user whether the device is currently connected. So we made some changes to the sketch and adapted the prototype a little.  
 
@@ -24,7 +24,7 @@ During the the process we had the idea of using 2 different colored LEDs to sign
 
 Initially, we considered incorporating a button or switch on the right side of our device to enable power on and off functionality. However, we eventually opted to design the device to automatically turn on once it is connected to a tablet or smartphone and turn of as soon as it is removed. Here is a small sketch:   
 
-![Sketch PowerOn](Figures/SketchPowerOn.jpg)
+![Sketch PowerOn](Figures/SketchPowerOn.jpg) {width=40%}
 
 Next we also thought about the multimodality of our device and how we can process more input. We came up with the idea to give the user the possibility to switch between 3 different modes:  
 
@@ -32,7 +32,7 @@ Next we also thought about the multimodality of our device and how we can proces
 
 These modis can be selected with the according button on the front bottom side of the device. And a white LED will signal the currently selected active mode.  
 
-![Sketch Modi](Figures/SketchModi.jpg)
+![Sketch Modi](Figures/SketchModi.jpg){width=40%}
 
 ### Norman's Design Priciples
 
