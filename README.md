@@ -8,7 +8,7 @@ We are Friederike Körte and Mirza Özokyay. Friederike is a Bachelor's student 
 
 ## Topic
 
-The topic selection is pending.
+We are creating a telepresence system. Our device supports video calls by moving a tablet so that the participants of the call can see each other, even if the local participant moves to the left or right of the device. The device can follow a local participant's face or be manually controlled by a remote participant.
 
 ## Repository Structure
 
