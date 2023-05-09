@@ -45,7 +45,7 @@ The buttons for the 3 modes are also well visble. With descriptions above them, 
 2. Feedback:  
 The LEDs on the bottom give a feedback of the current connection status and also signal whether the device is powered on. The LEDs in the front panel indicate the current operation mode.
 
-3. Constraints:  
+3. Constraints: It is not possible to accidentally turn of the device (and therefore cut any connection) by pushing the wrong button. Likewise, it is not possible to turn off the device when removing the tablet, presevering battery life. Since tablets usually automatically rotate the image so that it is always correctly oriented, it is not even possible to place the tablet incorrectly into the device. Since the front panel buttons simple change the operation mode, it is not possible to do something wrong with them.
 
 4. Mapping: 
 The buttons for the 3 different modes are all next to each other, well labled and at a reasonible position.  
