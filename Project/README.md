@@ -1,3 +1,3 @@
-# PhysComp SS23 - \<Project Title\>
+# PhysComp SS23 - Telepresence System
 
-Write something about your group project here. Keep this file up-to-date throughout the course.
+We are working on a device that holds a tablet and follows the user's face during a video call. The device can also be manually controlled by a remote participant. There are three operating modes: Stand (do nothing), Follow (the local participant's face) and Manual (controlled by remote user). The mode can be selected locally via a button on the device. The button is illuminated to show which mode is selected. Below the device, there is a sublte indirect light indicating the remote connection status (green/red). The device automatically powers on when a tablet is placed into the holder.
