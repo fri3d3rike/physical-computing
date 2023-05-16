@@ -40,5 +40,19 @@ Order the missing components and start building the real prototype.
 
 ### Component List
 
-Component list:
-Refine your component list and highlight any updates you make to this. Also, try make a plan for where to purchase what, if we don’t already have the components. Remember to include URLs and prices!
+#### To order
+* Power adapter to run the Raspberry Pi on batteries (link tba)
+* Three Push-buttons (ideally with integrated white LEDs) (link tba)
+* A suitable switch that requires little force so that it can act as the main power switch (link tba)
+
+#### Available
+* Raspberry Pi or Arduino if the RPi cannot be powered with batteries
+* MicroSD card for the RPi
+* Batteries (AA and 9V)
+* Omni Wheel Platform
+* Three red and three green LEDs
+* Jumper wires
+* Beadboard
+* Resistors
+* Small wood or plastic pieces for the case and tablet holder
+* Maybe 3D-printed parts that fit and look better
