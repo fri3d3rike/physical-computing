@@ -41,9 +41,9 @@ Order the missing components and start building the real prototype.
 ### Component List
 
 #### To order
-* USB power bank (https://www.amazon.de/Power-Bank-Energy-Ladekabel-10000mA/dp/B08G96F4ZF)
-* Three Push-buttons with integrated white LEDs (https://www.amazon.de/HUAZIZ-Tastschalter-Microtaster-Schalter-Drucktaster/dp/B09QQJWTL5)
-* A suitable switch that requires little force so that it can act as the main power switch (https://www.amazon.de/InduSKY-Endschalter-Momentanem-Rollenhebel-Wechselschalter/dp/B08734MSDD)
+* USB power bank (https://www.amazon.de/gp/product/B08G96F4ZF)
+* Three Push-buttons with integrated white LEDs (https://www.amazon.de/gp/product/B09QQJWTL5)
+* A suitable switch that requires little force so that it can act as the main power switch (https://www.amazon.de/gp/product/B07F9QKTQQ)
 
 #### Available
 * Raspberry Pi 3
