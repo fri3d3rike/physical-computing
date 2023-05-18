@@ -57,7 +57,14 @@ _Update your concept/storyboard according to the feedback you received after you
 
 ### What we achieved this week
 
-We presented our concept to the class, got and gave feedback and then worked on improving our paper prototype and implemented the given feedback. We added something to change the angle of the tablet and renamed the three buttons. 
+We presented our concept to the class, got and gave feedback and then worked on improving our paper prototype and implemented the given feedback.  
+
+We added something to change the angle of the tablet.  
+
+![Prototype angles](Figures/prototype-2-angles.jpg)
+
+
+And we renamed the three buttons. 
 
 ![Buttons updated](Figures/updatedButtons.jpg){width=30%}
 
