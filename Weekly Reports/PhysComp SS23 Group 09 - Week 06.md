@@ -100,4 +100,8 @@ Nothing :)
 
 ### What we plan to do for the coming week
 
-Test the ordered components. Create precise plans for building the device, think about parts that need to be 3D printed. CAD modeling. Maybe start building.
+* Test the ordered components
+* Create precise plans for building the device
+* Think about parts that need to be 3D printed
+* CAD modeling
+* Maybe start soldering and building
