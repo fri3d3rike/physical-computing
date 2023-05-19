@@ -77,7 +77,7 @@ We added something to change the angle of the tablet.
 
 ![Prototype angles](Figures/prototype-2-angles.jpg)
 
-And we renamed the three buttons. 
+And we renamed the three buttons and added descriptive icons. 
 
 ![Buttons updated](Figures/updatedButtons.jpg){width=30%}
 
