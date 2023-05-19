@@ -79,9 +79,9 @@ We added something to change the angle of the tablet.
 
 And we renamed the three buttons and added descriptive icons. 
 
-![Buttons updated](Figures/updatedButtons.jpg){width=30%}
+![Buttons updated](Figures/updatedButtons.jpg){width=70%}
 
-![Prototype updated](Figures/prototype-2-updatedButtons.jpg)
+![Prototype updated](Figures/prototype-2-updatedButtons.jpg){width=70%}
 
 Also, we ordered the missing components so that we can try them next week and have time to order something else if needed.
 
