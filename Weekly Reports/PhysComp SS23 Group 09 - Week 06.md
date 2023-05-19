@@ -83,7 +83,16 @@ And we renamed the three buttons and added descriptive icons.
 
 ![Prototype updated](Figures/prototype-2-updatedButtons.jpg){width=70%}
 
-Also, we ordered the missing components so that we can try them next week and have time to order something else if needed.
+Also, we ordered the missing components so that we can try them next week and have time to order something else if needed. We ordered the following components from Amazon:
+
+* Mikroschalter Rollenhebel 10 St. 4.99€
+* LED Tastschalter 10 St. 7.99€
+* Power Bank 20000mAh 21.95€
+
+Links:
+* https://www.amazon.de/dp/B07F9QKTQQ
+* https://www.amazon.de/dp/B09QQJWTL5
+* https://www.amazon.de/dp/B08G96F4ZF
 
 ### What we could not achieve this week
 
