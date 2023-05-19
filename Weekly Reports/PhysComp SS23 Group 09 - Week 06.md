@@ -67,7 +67,7 @@ In order to prevent the device from falling of edges, we might add ultrasonic se
 
 We have not fully decided on the button colors. In theory, the modes are equally relevant. Also, there are no intuitive colors for these modes. However, since the freeze mode should only be used temporarily (otherwise, you could just use a tablet stand), it might get a different color. In order to prevent a mapping like red = bad, the colors could be blue and white.
 
-Regarding the smartphone remote, we are not sure if the is out of the scope of our project. We will keep it as an optional goal.
+Regarding the smartphone remote, we are not sure if it is out of the scope of our project. We will keep it as an optional goal.
 
 ### What we achieved this week
 
