@@ -48,12 +48,14 @@ We thought about the placement of the ultrasonic sensors. They are now in our sk
 
 The ordered components have arrived. We created a milestone plan.
 
+We also consulted the scientific engineering services for available transistors. We have to check if there are suitable parts for us.
+
+![CupCAD](Figures/transistors.jpg){width=40%}
+
 ### What we could not achieve this week
 
 We have not fully finished the concept because Friederike could not attend the lecture.
 
 ### What we plan to do for the coming week
 
-We have to check if the engineering services have suitable MOSFETs for us. If they don't have them, we have to order some.
-
-Then, we will finish the concept and start preparing all parts.
+We will finish the concept and start preparing all parts.
