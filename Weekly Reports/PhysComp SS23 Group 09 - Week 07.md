@@ -12,10 +12,6 @@ We are planning on using 3D printing for our front panel and possibly other part
 
 ### Milestones
 
-Take a look at the course plan – some milestones are implicitly pre-defined in it!
-Importantly, on July 5th  you will evaluate your prototype. What status does your prototype need to be in by then (what is your “minimum viable product”, what needs to be functional, what can be ``faked’’)? That’s seems far away now (in 6 weeks) – but due to the lecture-free period we effectively only have 4 lab sessions before then.
-E.g., what do you aim to achieve by the middle milestone between now and then (i.e., end of the lab session on June 14th)? That should be your very last turn-around point to decide on alternative interactions/technologies,..
-
 We came up with five milestones. Small changes are possible even after the concept has been completed.
 
 1. Concept complete
@@ -30,7 +26,7 @@ We came up with five milestones. Small changes are possible even after the conce
 
 3. Electronic components tested
 - Componentes tested individually
-- Certain function tested
+- Certain features tested
 
 4. Prototype assembled
 - Prototype assembled, but not fully programmed
@@ -38,7 +34,7 @@ We came up with five milestones. Small changes are possible even after the conce
 5. Prototype functional
 - Programming complete
 - Connection with tablet established
-- Things that could not be implemented must be faked
+- Things that could not be implemented must be faked (edge detection, automatic connection)
 
 ## Concept changes
 
