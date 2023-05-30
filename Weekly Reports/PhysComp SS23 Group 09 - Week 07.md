@@ -44,6 +44,8 @@ We came up with five milestones. Small changes are possible even after the conce
 
 We thought about the placement of the ultrasonic sensors. They are now in our sketches.
 
+![SketchPrototypeWithSensor](Figures/prototype-2-with-sensor.png){width=50%}
+
 ### What we achieved this week
 
 The ordered components have arrived. We created a milestone plan.
