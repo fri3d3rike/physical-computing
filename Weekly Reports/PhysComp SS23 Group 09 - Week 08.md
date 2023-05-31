@@ -15,6 +15,15 @@ Here are some pictures of us soldering:
 
 ![HelpingHand](Figures/helpingHand.jpg){width=40%}
 
+
+
+
+<table><tr>
+<td> <img src="Figures/mirzaSoldering.jpg" alt="MirzaSoldering" style="width: 250px;"/> </td>
+<td> <img src="Figures/helpingHand.jpg" alt="HelpingHand" style="width: 250px;"/> </td>
+</tr></table>
+
+
 ### Outcomes 
 Our outcome is a very nice littel LED Orgel that lights up when the microphone detects a sound.
 
@@ -22,7 +31,7 @@ Our outcome is a very nice littel LED Orgel that lights up when the microphone d
 
 ![Outcome2](Figures/outcomeSoldering1.jpg)
 
-![LEDorgel](Figures/videoLEDOrgel.mp4)
+![](Figures/videoLEDOrgel.mp4)
 
 
 
