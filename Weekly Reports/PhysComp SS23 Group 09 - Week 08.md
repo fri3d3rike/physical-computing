@@ -21,6 +21,7 @@ Here are some pictures of us soldering:
 Our outcome is a very nice littel LED Orgel that lights up when the microphone detects a sound.
 
 
+// resize auf width = 350
 
 <table><tr>
 <td> <img src="Figures/outcomeSoldering2.jpg" alt="Outcome1" style="max-width: 40%;"/> </td>
