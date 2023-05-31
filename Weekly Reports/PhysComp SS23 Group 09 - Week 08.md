@@ -11,16 +11,9 @@ Another challenge was to reach the position between all the wires, but the helpi
 
 Here are some pictures of us soldering: 
 
-![MirzaSoldering](Figures/mirzaSoldering.jpg){width=40%}
-
-![HelpingHand](Figures/helpingHand.jpg){width=40%}
-
-
-
-
 <table><tr>
-<td> <img src="Figures/mirzaSoldering.jpg" alt="MirzaSoldering" style="width: 250px;"/> </td>
-<td> <img src="Figures/helpingHand.jpg" alt="HelpingHand" style="width: 250px;"/> </td>
+<td> <img src="Figures/mirzaSoldering.jpg" alt="MirzaSoldering" style="width: 40%;"/> </td>
+<td> <img src="Figures/helpingHand.jpg" alt="HelpingHand" style="width: 40%;"/> </td>
 </tr></table>
 
 
