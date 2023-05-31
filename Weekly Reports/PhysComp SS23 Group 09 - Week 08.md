@@ -20,9 +20,13 @@ Here are some pictures of us soldering:
 ### Outcomes 
 Our outcome is a very nice littel LED Orgel that lights up when the microphone detects a sound.
 
-![Outcome1](Figures/outcomeSoldering2.jpg)
 
-![Outcome2](Figures/outcomeSoldering1.jpg)
+
+<table><tr>
+<td> <img src="Figures/outcomeSoldering2.jpg" alt="Outcome1" style="max-width: 40%;"/> </td>
+<td> <img src="Figures/outcomeSoldering1.jpg" alt="Outcome2" style="max-width: 40%;"/> </td>
+</tr></table>
+
 
 ![](Figures/videoLEDOrgel.mp4)
 
