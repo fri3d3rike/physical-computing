@@ -12,7 +12,7 @@ Another challenge was to reach the position between all the wires, but the helpi
 Here are some pictures of us soldering: 
 
 <table><tr>
-<td> <img src="Figures/mirzaSoldering.jpg" alt="MirzaSoldering" style="max-width: 40%;"/> </td>
+<td> <img src="Figures/soldering-ex.jpg" alt="MirzaSoldering" style="max-width: 40%;"/> </td>
 <td> <img src="Figures/helpingHand.jpg" alt="HelpingHand" style="max-width: 40%;"/> </td>
 </tr></table>
 
@@ -32,14 +32,25 @@ Our outcome is a very nice littel LED Orgel that lights up when the microphone d
 ![](Figures/videoLEDOrgel.mp4)
 
 
-
-
 ## Weekly Progress Report
-
-What have you achieved this week with regards to your project? As usual, if your *concept* has changed, briefly describe this (and post pictures). Also, report on your progress in *developing your prototype* or *acquiring equipment*.
 
 ### What we achieved this week
 
+Since the most important components have arrived, we wanted to start testing them to see if we need to order anything else. The powerbank and rolling lever switches work fine. The LED buttons however posed a little challenge. There was no data sheet and the Amazon website only stated something like "12V LEDs, switch 230V". Unfortunately, we found no other sellers that offered similar buttons with a more trustworthy description. We assumed the buttons the contain resistors to make them work with 12V. Just to be sure, we decided to test an orange button (a color we would not need later on) with 3.3V and quickly burned out the LED. We realized that the buttons do in fact not contain any resistors. We then soldered some of the left over leads from the soldering exercise to a new button and tested it on a breadboard with an appropriate 470 Ohms resistor. It worked just fine. This is nice because now we know that we won't need transistors to power the LED buttons.
+
+![](Figures/button-legs.jpg){width=40%}
+
+We also designed the CAD model for our front cover after measuring the buttons. Since the buttons are quite small, the panel has to be only 2 mm thin. We added ridges for structural stability. It is located in our concept folder and we would be happy to have it printed as soon as possible to see if everything fits.
+
+![](Figures/button-measure.jpg){width=40%}
+![](Figures/frontpanel.png){width=40%}
+
 ### What we could not achieve this week
 
-### What we plan to do for the coming week
+We have not reached our first milestone. We still have to create exact sketches or CAD models for the remaining structure of our device.
+
+### What we plan to do for the next session (the coming week is a holiday)
+
+* Decide which other parts must be 3D printed
+* Create accurate sketches or CAD models
+* Acquire the materials (cardboard, plastic)
