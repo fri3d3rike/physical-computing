@@ -13,14 +13,10 @@ It took us some time to check the polarity of the components, but the manual and
 Here are some pictures of us soldering: 
 
 ![MirzaSoldering](Figures/soldering-ex.jpg){width=40%}
-// <img src="Figures/helpingHand.jpg" alt="HelpingHand" style="max-width: 40%;"/>
 
 
 ### Outcomes 
-Our outcome is a very nice littel LED Orgel that lights up when the microphone detects a sound.
-
-
-// resize auf width = 350
+Our outcome is a very nice littel light organ that lights up when the microphone detects a sound.
 
 <table><tr>
 <td> <img src="Figures/outcomeSoldering2.jpg" alt="Outcome1" style="max-width: 40%;"/> </td>
