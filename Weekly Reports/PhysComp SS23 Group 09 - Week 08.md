@@ -39,7 +39,7 @@ We also designed the CAD model for our front cover after measuring the buttons. 
 
 <table><tr>
 <td> <img src="Figures/button-measure.jpg" alt="Outcome1" width="40%"/> </td>
-<td> <img src="Figures/frontpanel.png" alt="Outcome2" width="40%"/> </td>
+<td> <img src="Figures/frontpanel.png" alt="Outcome2"/> </td>
 </tr></table>
 
 ### What we could not achieve this week
