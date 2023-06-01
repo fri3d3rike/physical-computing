@@ -7,7 +7,8 @@ Report on your soldering exercises (pictures/videos and text). What was your exp
 ### Challenges  
 
 The main challege was to get the solder heated up at the right position, because not all sides of the soldering iron were hot. So it sometimes took a little patience or a new position of the soldering iron until the wire could be soldered. We used the helping hand and a flux pen, that helped the solder flow cleanly onto the parts we were soldering.
-Another challenge was to reach the position between all the wires, but the helping hand and cutting and bending the finished wires away helped a lot and all in all we are satisfied with the result. 
+Another challenge was to reach the position between all the wires, but the helping hand and cutting and bending the finished wires away helped a lot and all in all we are satisfied with the result.
+It took us some time to check the polarity of the components, but the manual and prints on the PCB told us everything we needed.
 
 Here are some pictures of us soldering: 
 
@@ -42,8 +43,10 @@ Since the most important components have arrived, we wanted to start testing the
 
 We also designed the CAD model for our front cover after measuring the buttons. Since the buttons are quite small, the panel has to be only 2 mm thin. We added ridges for structural stability. It is located in our concept folder and we would be happy to have it printed as soon as possible to see if everything fits.
 
-![](Figures/button-measure.jpg){width=40%}
-![](Figures/frontpanel.png){width=40%}
+<table><tr>
+<td> <img src="Figures/button-measure.jpg" alt="Outcome1" style="max-width: 40%;"/> </td>
+<td> <img src="Figures/frontpanel.png" alt="Outcome2" style="max-width: 40%;"/> </td>
+</tr></table>
 
 ### What we could not achieve this week
 
