@@ -38,7 +38,7 @@ Since the most important components have arrived, we wanted to start testing the
 We also designed the CAD model for our front cover after measuring the buttons. Since the buttons are quite small, the panel has to be only 2 mm thin. We added ridges for structural stability. It is located in our concept folder and we would be happy to have it printed as soon as possible to see if everything fits.
 
 <table><tr>
-<td> <img src="Figures/button-measure.jpg" alt="Outcome1" width="40%"/> </td>
+<td width="30%"> <img src="Figures/button-measure.jpg" alt="Outcome1" width="40%"/> </td>
 <td> <img src="Figures/frontpanel.png" alt="Outcome2"/> </td>
 </tr></table>
 
