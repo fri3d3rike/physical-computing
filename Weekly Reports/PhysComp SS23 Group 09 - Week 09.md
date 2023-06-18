@@ -4,27 +4,25 @@
 
 ### What we achieved this week
 
-
+* Arduino Motor test
+* Raspberry Pi OS installed and direct connection to Laptop via WLAN
+* 3D printed front panel
+* Created construction plan with measurements for the base (forgot to take pictures)
+* Ordered wood cuts from the engineering services
+* Decided to use the official Raspberry Pi camera, it makes things easier
 
 ![](Figures/motorTest.gif){width=60%}
+![](Figures/frontPanelPrinted.jpg){width=60%}
 
-
-
-What goals did you reach this week? What progress did you make in your project? Add pictures, screenshots, or videos of
-the things you did (`Weekly Reports/Figures`). Include media inline in Markdown when possible:
-
-![A sample picture](Figures/sample-picture.jpg)
 
 ### What we could not achieve this week
 
-It's no shame talking about what you could not achieve. Why did you fail to miss your goals? How would you do it
-different next time?
+* Construction plan for the top part (including spot for the Raspberry Pi camera)
+* Plan for mounting the ultrasonic sensor
+* Raspberry Pi to Arduino connection
 
 ### What we plan to do for the coming week
 
-Make a plan what you want to do until the next assignment.
-
-## Add sections as you see fit for the assignment
-
-Some weekly assignments contain other tasks like creating a order list. You can create the subsections as you see fit 
-for the assignment.
+* Plan the the top part, camera and ultrasonic sensor placement
+* Connect Raspberry Pi to Arduino for motor controls
+* Reach Milestone 1
