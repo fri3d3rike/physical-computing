@@ -12,12 +12,12 @@ We mounted the motor shield onto the Arduino. This was easy, because we had deso
 ![](Figures/motorTest.gif){width=60%}
 
 #### Raspberry Pi
-In order to get the Raspberry Pi working, we borrowed an SD reader from another group (we expected the Uni to at least have a microSD-SD adapter, but there was none to be found). We then installed a Raspbian Lite image onto our microSD card and configured it to connect to connect to my Laptop via WLAN. After a bit of troubleshooting, everything worked fine. We then tried connecting the Raspberry Pi to the Arduino via USB, but there seems to be some issue with the serial port configuration on the Pi. We have to look into that next week.
+In order to get the Raspberry Pi working, we borrowed an SD reader from another group (we expected the Uni to have a microSD-SD adapter, but there was none to be found). We then installed a Raspbian Lite image onto our microSD card and configured it to connect to connect to my Laptop via WLAN. After a bit of troubleshooting, everything worked fine. We then tried connecting the Raspberry Pi to the Arduino via USB, but there seems to be some issue with the serial port configuration on the Pi. We have to look into that next week.
 
 We also decided to use the Raspberry Pi camera module which we found in a box in the HCI lab. This way, our system can operate independently from the tablet, making it much simpler and hopefully more robust. We have to figure out where to mount the camera.
 
 #### Building the physical parts
-We created plans with proper measurements for the base that connects the tablet holder to the omni wheel platform. Unfortunately, we forgot to take pictures. We gave the plans and some wood scrap to the engineering services and hop to receive our parts in the next few weeks.
+We created plans with proper measurements for the base that connects the tablet holder to the omni wheel platform. Unfortunately, we forgot to take pictures. We gave the plans and some wood scrap to the engineering services and hope to receive our parts in the next few weeks.
 
 We also 3D printed our front panel. It came out exactly as expected.
 
