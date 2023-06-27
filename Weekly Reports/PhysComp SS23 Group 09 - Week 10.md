@@ -3,7 +3,14 @@
 ## Progress Report
 
 ### What we achieved this week
-Friederike could not attend the lecture due to the overlap with another course.  
+Friederike could not attend the lecture due to the overlap with another course, but worked from home. 
+We got the wood parts, we ordered at the wood workshop and prepared them for the next milestone.
+
+![Wood Parts](Figures/wood_parts.jpg){width=40%}
+
+![Wood Component ](Figures/wood_component.jpg){width=40%}
+
+
 
 ### What we could not achieve this week
 
@@ -135,3 +142,4 @@ What are common issues, patterns, and areas of improvement. What could be specif
 
 
 
+<iframe src="https://giphy.com/embed/UrbnbuU24p1zgyDMUH" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Friends-season-5-episode-113-the-one-with-cop-UrbnbuU24p1zgyDMUH">via GIPHY</a></p>
