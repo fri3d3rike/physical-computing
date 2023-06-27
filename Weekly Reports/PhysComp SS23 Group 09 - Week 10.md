@@ -61,7 +61,7 @@ We observe if the device successfully rotates according to the users input and i
 
 ### Test Procedure:
 
-1. Introduction and Pre-Test Questions:
+1. Introduction and Pre-Test Survey:
 
 Providing an overview of the test objectives and procedures to the participants. Asking for permission to collect the data and informing what the data is needed for. 
 Collecting background information about the participants, including their experience with hybrid meetings and remote collaboration tools.
@@ -75,38 +75,53 @@ We present a brief demonstration of the telepresence device's features and capab
 We encourage the participants to think aloud, express their thoughts, and verbalize their experience as they use the device.
 Assigning the tasks to the participant and taking notes on participants' interactions, difficulties and feedback.
 
-4. Post-Test Questionnaire:
+4. Post-Test Survey:
 
 Post-test questionnaire to gather additional feedback and subjective impressions from the participants.
 Participants can ask questions, share their overall impressions, and provide any additional comments.
 
 ### Additional evaluation technique: Survey 
 
-
-Pre-Test Questions: 
+#### Pre-Test Survey: 
 
 1. How frequently do you participate in hybrid meetings or remote collaborations? - [never, monthly, weekly, daily]
-What tools or devices do you currently use for remote meetings?
-What are some challenges you have encountered when participating remotely in meetings?
-Are you familiar with telepresence devices or similar technologies? If yes, please provide some examples.
-How important is it for you to actively engage and contribute during remote meetings?
-What features or functionalities do you expect from a telepresence device for hybrid meetings?
-Have you used any rotating or tracking devices before? If yes, please share your experience.
-What factors do you consider when evaluating the usability of a device or technology?
-How comfortable are you with using mobile apps or web-based interfaces for controlling devices?
-Is there any specific aspect of a telepresence device for hybrid meetings that you would like to see improved or addressed?
-Post-Test Questions:
 
-How would you rate the ease of setup and initial configuration of the telepresence device?
-Did you find the rotation functionality of the device effective in tracking your movements? Please elaborate.
-How secure and stable did you find the tablet/phone holder for different sizes of devices?
-Were there any challenges or difficulties you encountered when adapting the device to different meeting spaces?
-How intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device?
-Did you feel that the telepresence device enhanced your ability to actively engage in the hybrid meeting? Why or why not?
-What aspects of the device's audio and video capabilities impressed you the most? Were there any limitations or issues?
-How comfortable did you feel using the telepresence device during the test session?
-What suggestions do you have for improving the overall usability and functionality of the telepresence device?
-Based on your experience, would you consider using the telepresence device for your future hybrid meetings? Why or why not?
+2. Which tools or devices do you currently use for remote meetings? Please rate their effectiveness on a scale of 1 to 5. [1 - Not effective, 5 - Highly effective]
+
+3. On a scale of 1 to 5, how challenging do you find it to actively engage in remote meetings? [1 - Not challenging, 5 - Highly challenging]
+
+4. How familiar are you with telepresence devices or similar technologies? Please rate your familiarity on a scale of 1 to 5. [1 - Not familiar, 5 - Very familiar]
+
+5. On a scale of 1 to 5, how important is it for you to actively engage and contribute during remote meetings? [1 - Not important, 5 - Very important]
+
+6. Have you used any rotating or tracking devices before? Please rate your experience with them on a scale of 1 to 5. [1 - Negative experience, 5 - Positive experience]
+
+7. How confident are you with using mobile apps or web-based interfaces for controlling physical devices? Please rate your level of confidence on a scale of 1 to 5. [1 - Not confident, 5 - Very confident]
+
+8. What features or functionalities do you expect from a telepresence device for hybrid meetings?
+
+#### Post-Test Survey:
+
+On a scale of 1 to 5... 
+
+1. How would you rate the ease of setup and initial configuration of the telepresence device? [1 - Very difficult, 5 - Very easy]
+
+2. Did you find the rotation functionality of the device effective in tracking your movements? [1 - Not effective, 5 - Highly effective]
+
+3. Did you feel that the telepresence device enhanced your ability to actively engage in the hybrid meeting? [1 - No impact, 5 - Significant impact]
+
+4. On a scale of 1 to 5, how intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device? [1 - Not intuitive, 5 - Highly intuitive]
+
+5. How secure and stable did you find the tablet/phone holder for different sizes of devices?  [1 - Not stable, 5 - Highly stable]
+
+6. How comfortable did you feel using the telepresence device during the test session? [1 - Not comfortable, 5 - Very comfortable]
+
+7. Were there any challenges or difficulties you encountered when adapting the device to different meeting spaces?
+
+8. What suggestions do you have for improving the overall usability and functionality of the telepresence device?
+
+9. Based on your experience, would you consider using the telepresence device for your future hybrid meetings? Why or why not?
+
 
 ### What we hope to learn 
 
@@ -114,14 +129,6 @@ What are common issues, patterns, and areas of improvement. What could be specif
 
 ### What functionality can you test, what can you fake(Wizard of Oz)?
 
-
-In addition, you should plan to complement it with one additional evaluation technique discussed in the lecture (voluntary, 1 bonus point): e.g.,
-
-Surveys
-Technical Benchmarking
-…
-
-Describe your plan accordingly on GitLab.
 
 
 
