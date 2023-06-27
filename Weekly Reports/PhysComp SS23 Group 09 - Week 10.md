@@ -140,6 +140,6 @@ What are common issues, patterns, and areas of improvement. What could be specif
 
 
 
+## Course Evaluation
 
-
-<img href="https://giphy.com/gifs/Friends-season-5-episode-113-the-one-with-cop-UrbnbuU24p1zgyDMUH">
+![Gif](Figures/giphy1.gif)
