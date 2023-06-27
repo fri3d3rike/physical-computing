@@ -13,6 +13,7 @@ We got the wood parts we had ordered at the wood workshop and prepared them for 
 We also managed to get the connection from the Raspberry Pi to the Arduino to work. We had to replace the camera cable to connect the camera to the Pi. For that, we borrowed a high quality camera module with a compatible cable. We do not use the high quality camera module, because it is very big and also requires a big lens which we do not have. With the new cable, out camera works, but for some reason the OpenCV library does not load certain modules on the Pi. We might implement the face tracking in a Wizard of Os fashion.
 
 The first photo taken with the Raspberry Pi camera:
+
 ![First Pi Cam Image](Figures/picam.jpg){width=40%}
 
 ### What we could not achieve this week
