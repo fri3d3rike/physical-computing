@@ -142,4 +142,4 @@ What are common issues, patterns, and areas of improvement. What could be specif
 
 
 
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/UrbnbuU24p1zgyDMUH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Friends-season-5-episode-113-the-one-with-cop-UrbnbuU24p1zgyDMUH">via GIPHY</a></p>
+<img href="https://giphy.com/gifs/Friends-season-5-episode-113-the-one-with-cop-UrbnbuU24p1zgyDMUH">
