@@ -38,15 +38,15 @@ Users who regularly participate in hybrid meetings with their tablet/pc/smartpho
 ### Test Tasks and Scenarios:
 
 - Task 1: Device Setup:   
-The user with the device is asked to unpack and set up the telepresence device on a table or desk. The user is provided with a tablet and asked to to turn on the decive, by placing the tablet in the holder.
+The user with the device is asked to unpack and set up the telepresence device on a table or desk. The user is provided with a tablet and asked to turn on the decive, by placing the tablet in the holder.
 
-While doing that we observe the user's experience during the setup process, noting any difficulties or confusion encountered. Do the two useres get to device to connect without problems?
+While doing that we observe the user's experience during the setup process, noting any difficulties or confusion encountered.
 
 - Task 2: User Interface
 The useres are provided with a web-based interface for controlling and connecting the device.
-Then both of the users are instructed to connect to the device using the interface.
+Then both of the users are instructed to connect to the device using the interface. 
 
-We observe the user's interactions and note any challenges or areas of confusion.
+We observe the user's interactions and note any challenges or areas of confusion. Do the two groups get the device to connected without problems?
 
 - Task 3: Remote Control:
 The remote user that is not present in the room with the device, is asked to rotate the device manually to look at different participants in the other room. 
@@ -63,7 +63,7 @@ We observe if the device successfully rotates according to the users input and i
 
 1. Introduction and Pre-Test Questions:
 
-Providing an overview of the test objectives and procedures to the participants.
+Providing an overview of the test objectives and procedures to the participants. Asking for permission to collect the data and informing what the data is needed for. 
 Collecting background information about the participants, including their experience with hybrid meetings and remote collaboration tools.
 
 2. Demonstration:
@@ -80,7 +80,33 @@ Assigning the tasks to the participant and taking notes on participants' interac
 Post-test questionnaire to gather additional feedback and subjective impressions from the participants.
 Participants can ask questions, share their overall impressions, and provide any additional comments.
 
-\<Questionaire will be inserted soon \>
+### Additional evaluation technique: Survey 
+
+
+Pre-Test Questions: 
+
+1. How frequently do you participate in hybrid meetings or remote collaborations? - [never, monthly, weekly, daily]
+What tools or devices do you currently use for remote meetings?
+What are some challenges you have encountered when participating remotely in meetings?
+Are you familiar with telepresence devices or similar technologies? If yes, please provide some examples.
+How important is it for you to actively engage and contribute during remote meetings?
+What features or functionalities do you expect from a telepresence device for hybrid meetings?
+Have you used any rotating or tracking devices before? If yes, please share your experience.
+What factors do you consider when evaluating the usability of a device or technology?
+How comfortable are you with using mobile apps or web-based interfaces for controlling devices?
+Is there any specific aspect of a telepresence device for hybrid meetings that you would like to see improved or addressed?
+Post-Test Questions:
+
+How would you rate the ease of setup and initial configuration of the telepresence device?
+Did you find the rotation functionality of the device effective in tracking your movements? Please elaborate.
+How secure and stable did you find the tablet/phone holder for different sizes of devices?
+Were there any challenges or difficulties you encountered when adapting the device to different meeting spaces?
+How intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device?
+Did you feel that the telepresence device enhanced your ability to actively engage in the hybrid meeting? Why or why not?
+What aspects of the device's audio and video capabilities impressed you the most? Were there any limitations or issues?
+How comfortable did you feel using the telepresence device during the test session?
+What suggestions do you have for improving the overall usability and functionality of the telepresence device?
+Based on your experience, would you consider using the telepresence device for your future hybrid meetings? Why or why not?
 
 ### What we hope to learn 
 
