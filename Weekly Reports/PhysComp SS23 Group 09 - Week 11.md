@@ -22,8 +22,18 @@ We assembled all the inner parts and started programming.
 
 ### What we could not achieve this week
 
-Nothing.
+Find people for the evaluation
 
 ### What we plan to do for the coming week
 
-Finish milestone 4 and start with 5.
+Finish milestone 4 and start with 5. 
+
+Find people for the evaluation of our prototype and evaluate.
+
+
+## Evaluation Plan Refinement:
+Refine your evaluation plan from last week based on the feedback you received. Remember that you have to evaluate your project next week!
+
+
+## Milestone Review
+Review your project plan: Briefly report on which milestones/tasks you have been able to meet, and which are overdue. Adapt your plan to match your current progress and (re)define milestones until the end of the project. Shortly report on your changes.
