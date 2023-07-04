@@ -51,7 +51,7 @@ The LEDs on the bottom give a feedback of the current connection status and also
 The buttons for the 3 different modes are all next to each other, well labled and at a reasonible position.  
 
 5. Consistency:  
-The green light for connection and red light for no connection are consistent to the general understanding of those two colors. A lit button on the front indicates that the respective mode is active.
+The green light for connection and red light for no connection are consistent to the general understanding of those two colors. A little button on the front indicates that the respective mode is active.
 
 6. Affordance: People are used to putting a book or tablet into a holder or are at least familiar with the concept. Also, people are used to that fact that things happen to the thing they interact with. I our case, the front panel button that is presesd will light up and the respective operation mode will be active. It would be unusual if a light somwhere else were to change. This is similar to our consistent mapping.
 

@@ -22,6 +22,19 @@ We assembled all the inner parts and started programming.
 In theory, the functions for moving in different directions are now ready, but we have not tested them.
 
 
+We also created the Labels for the front panel:
+
+![innerParts](Figures/frontpanelLabels.png){width=40%}
+
+
+### Concept Change
+
+Since we are using the Raspberry Pi camera for tracking participants, we no longer rely on a connection to the tablet. This makes our device more robust and makes the setup even easier. Now, the status LEDs no longer display the connection to the tablet, but
+If the mode is freeze: whether the device is on
+If the mode is follow: whether the device is detecting a participant to follow
+If the mode is remote: whether a remote user is connected
+
+
 ### What we could not achieve this week
 
 * Find people for the evaluation
@@ -43,14 +56,51 @@ Find people for the evaluation of our prototype and evaluate.
 
 
 ## Evaluation Plan Refinement:
-Write down your full study procedure. This may include the following steps; greeting the participant and introducing yourselves, briefly describing your project and the purpose of your study, giving them the consent form to sign, introducing them to the task, letting them perform the task (while talking out loud) -- meanwhile you might be recording and taking notes, after all tasks you may interview them or ask them to complete a survey, and finally you should have a debriefing in which you thank them and give them an opportunity to ask questions.
 
-1. Turn on the device, check connection status
-2. Start a video call
-3. Let your partner control the device, move around
-4. Switch the mode to automatic tracking, move around
-5. Switch the mode to freeze, observer how the device doesn't move
-6. Take away the tablet
+For the Evaluation Plan, the most remained the same as you can find in the last report of week 10.
+We added the handout of a consent form in the introduction step of the procedure and also reworked the test tasks a little bit to be more specific.
+
+### Introduction:
+We greet the participant, introduce ourselves and briefly describe our project and the purpose of this study:
+The purpose of this usability test is to evaluate the functionality, ease of use, and overall user experience of the telepresence device designed for users attending hybrid meetings as part of the Physical Computing Course SS23 at the University of Konstanz. The target group for this test is people who actively engage in remote meetings and need a seamless and immersive experience. The test will focus on assessing the device's rotation capabilities, tablet/phone holding mechanism, setup process, adaptability to different meeting spaces, and user interface.  
+Then we give the participant a consent form to sign and introduce them to the tasks. 
+
+### Test Tasks and Scenarios:
+
+- Task 1: Device Setup:   
+The user with the device is asked to unpack and set up the telepresence device on a table or desk. The user is provided with a tablet and asked to turn on the decive, by placing the tablet in the holder. Then both of the users are instructed to connect to the device.
+
+While doing that we observe the user's experience during the setup process, noting any difficulties or confusion encountered.
+
+- Task 2: Switch device into the Remote Mode:
+The user with the device is asked to switch from the default mode of the device into the Remote Mode. Then the user is asked to check the conection status of the device.
+
+- Task 3: Start Video Call:
+The participants are asked to start a video call.
+
+We observe how confident the user is with the use of their laptop. 
+
+- Task 4: User Interface:
+The useres are provided with a web-based interface for controlling the device.
+
+We observe the user's interactions and note any challenges or areas of confusion. Do the two groups get the device to connected without problems?
+
+- Task 5: Remote Control:
+The remote user that is not present in the room with the device, is asked to rotate the device manually to look at different participants/directions in the other room. 
+
+We observe if the device successfully rotates to track the user's face and adjusts its position accordingly. Drawing attention to excessive noise, delays, or inaccurate tracking.
+ 
+- Task 6: Follow Mode selection and Rotating Functionality:
+The users are asked to select a mode that causes the device to automatically follow a person in front of it. They are encouraged to move around. 
+
+We observe if the device successfully rotates according to the users input and if the control via the keyboard was intuitive. 
+
+- Task 8: Freeze Mode selection:
+The users are instructed to set the mode, that stops the device from moving and prevents remote control. 
+
+- Task 9: Turn off the device:
+The user is asked to turn of the device by taking away the tablet.
+
 
 
 ## Milestone Review
