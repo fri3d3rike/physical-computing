@@ -30,10 +30,12 @@ In theory, the functions for moving in different directions are now ready, but w
 ### What we plan to do for the coming week
 
 Finish milestone 4 and start with 5. 
-* Add LEDs below the device
-* Add Ultrasonic sensors and mount camera
+* Test driving
+* Add status LEDs below the device
+* Mount Ultrasonic sensors and camera
 * Add on/off switch
-* Write logic for controlling LEDs
+* Write logic for controlling LEDs and on/off switch
+* Assemble the rest (front panel, powerbank, tablet holder)
 * Create web-interface for movement control
 
 Find people for the evaluation of our prototype and evaluate.
@@ -44,6 +46,38 @@ Write down your full study procedure. This may include the following steps; gree
 
 
 ## Milestone Review
-Review your project plan: Briefly report on which milestones/tasks you have been able to meet, and which are overdue. Adapt your plan to match your current progress and (re)define milestones until the end of the project. Shortly report on your changes.
 
-Also: Include deadlines
+No milestone is overdue. We would have liked more progress on milestone 4. We had to set the deadline quite late, but we need parts of the functionality for the evaluation. We will have to figure out how to handle this in the next session.
+
+1. Concept complete (DONE)
+- Features clearly described
+- Parts, sizes etc. planned out
+- Mandatory and optional goals
+
+2. All parts prepared (received, cut, printed) (DONE)
+- Cutting
+- Printing
+- Ordering
+
+3. Electronic components tested (DONE)
+- Componentes tested individually
+- Certain features tested: LEDs, buttons, camera, motors
+
+4. Prototype assembled - Deadline 19.07.2023 (WIP)
+- GOAL: Prototype assembled, components connected and tested
+- TODO: Test driving code (weight/torque considerations)
+- TODO: Properly mount ultrasonic sensors and camera
+- TODO: Install LEDs under the device
+- TODO: Mount front panel
+- TODO: Mount powerbank
+- TODO: Install on/off switch
+- TODO: Finish tablet holder
+
+5. Prototype functional - Deadline 26.07.2023
+- GOAL: Programming complete
+- TODO: On/off switch shows an effect
+- TODO: Mode selection works
+- TODO: Status LEDs work
+- TODO: Remote control works
+- OPTIONAL: Face tracking and automatic rotation
+- OPTIONAL: Edge detection
