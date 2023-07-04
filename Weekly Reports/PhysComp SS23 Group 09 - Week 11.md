@@ -26,8 +26,9 @@ We also created the Labels for the front panel:
 
 ![innerParts](Figures/frontpanelLabels.png){width=40%}
 
-We created two Google Forms for the pre and post test surveys and a consent form for our Evaluation Plan.
+We created a letter of consent: ![](../Project/Evaluation/consentletter.pdf)
 
+We created two Google Forms for the pre and post test surveys and a consent form for our Evaluation Plan.
 
 
 ### Concept Change
