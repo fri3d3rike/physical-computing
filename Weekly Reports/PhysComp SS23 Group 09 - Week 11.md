@@ -30,13 +30,14 @@ In theory, the functions for moving in different directions are now ready, but w
 ### What we plan to do for the coming week
 
 Finish milestone 4 and start with 5. 
+* Front panel button labels
 * Test driving
+* Create web-interface for movement control
 * Add status LEDs below the device
-* Mount Ultrasonic sensors and camera
 * Add on/off switch
 * Write logic for controlling LEDs and on/off switch
 * Assemble the rest (front panel, powerbank, tablet holder)
-* Create web-interface for movement control
+* Low priority: Mount Ultrasonic sensors and camera (not used for evaluation)
 
 Find people for the evaluation of our prototype and evaluate.
 
@@ -44,10 +45,17 @@ Find people for the evaluation of our prototype and evaluate.
 ## Evaluation Plan Refinement:
 Write down your full study procedure. This may include the following steps; greeting the participant and introducing yourselves, briefly describing your project and the purpose of your study, giving them the consent form to sign, introducing them to the task, letting them perform the task (while talking out loud) -- meanwhile you might be recording and taking notes, after all tasks you may interview them or ask them to complete a survey, and finally you should have a debriefing in which you thank them and give them an opportunity to ask questions.
 
+1. Turn on the device, check connection status
+2. Start a video call
+3. Let your partner control the device, move around
+4. Switch the mode to automatic tracking, move around
+5. Switch the mode to freeze, observer how the device doesn't move
+6. Take away the tablet
+
 
 ## Milestone Review
 
-No milestone is overdue. We would have liked more progress on milestone 4. We had to set the deadline quite late, but we need parts of the functionality for the evaluation. We will have to figure out how to handle this in the next session.
+No milestone is overdue. We would have liked more progress on milestone 4. We had to set the deadline quite late, but we need parts of the functionality for the evaluation. We will have to figure out how to handle this in the next session. We decided that it does not make sense to add another milestone specifically for the evaluation because it is hard to predict our progress.
 
 1. Concept complete (DONE)
 - Features clearly described
