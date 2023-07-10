@@ -127,6 +127,39 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 #### Post-Test Survey
 
+
+![](Figures/Posttest/_How%20would%20you%20rate%20the%20ease%20of%20setup%20and%20initial%20configuration%20of%20the%20telepresence%20device.png)
+
+![](Figures/Posttest/_Did%20you%20feel%20that%20the%20telepresence%20device%20enhanced%20your%20ability%20to%20activelyengage%20in%20the%20hybrid%20meeting__.png)
+
+
+![](Figures/Posttest/_Did%20you%20find%20the%20rotation%20functionality%20of%20the%20device%20effective%20in%20tracking%20your%20movements.png)
+
+
+Was the mode selection intuitive?
+> all participants answered with highly intuitive
+
+How intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device?
+> all participants using the interface answered with highly intuitive
+
+
+![](Figures/Posttest/_How%20secure%20and%20stable%20did%20you%20find%20the%20tablet_phone%20holder%20for%20different%20sizes%20of%20devices.png)
+
+
+![](Figures/Posttest/_How%20comfortable%20did%20you%20feel%20using%20the%20telepresence%20device%20during%20the%20test%20session.png)
+
+
+![](Figures/Posttest/_Were%20there%20any%20challenges%20or%20difficulties%20you%20encountered%20when%20adapting%20the%20device.png)
+
+
+![](Figures/Posttest/_What%20suggestions%20do%20you%20have%20for%20improving%20the%20overall%20usability%20and%20functionality.png)
+
+
+![](Figures/Posttest/_Based%20on%20your%20experience%2C%20would%20you%20consider%20using%20the%20telepresence%20device.png)
+
+
+
+
 ### Post-Test Interview
 
 After the experiment and the post-test survey, we briefly interviewed our participants together in person. We chose to do it this way to make it as comfortable as possible for them. We asked them especially for anything that they would like to comment on but did not write into the survey. We encouraged them to tell us everything about their experience during our study that came to their minds. Here are their comments:
