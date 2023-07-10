@@ -72,6 +72,7 @@
         </div>
     </div>
     <script>
+        var shiftDown = false;
         function buttonDown(btn) {
             console.log("D " + btn);
             const speed = 255;
@@ -79,27 +80,27 @@
                 case "forward":
                     send(0, 0, speed);
                     break;
-            
+
                 case "backward":
                     send(0, 1, speed);
                     break;
-                
+
                 case "left":
-                    send(1, 0, speed);
+                    send(1 + (shiftDown ? 1 : 0), 0, speed);
                     break;
-                
+
                 case "right":
-                    send(1, 1, speed);
+                    send(1 + (shiftDown ? 1 : 0), 1, speed);
                     break;
-                
+
                 case "turnLeft":
                     send(2, 0, speed);
                     break;
-                
+
                 case "turnRight":
                     send(2, 1, speed);
                     break;
-                
+
                 default:
                     break;
             }
@@ -109,7 +110,7 @@
             send(0, 0, 0);
         }
         function send(axis, direction, speed) {
-            fetch("http://raspberrypi.local/control?axis=" + axis + "&direction=" + direction + "&speed=" + speed)
+            fetch("http://192.168.1.101/control?axis=" + axis + "&direction=" + direction + "&speed=" + speed)
             .then(response => response.text())
             .then(body => console.log(body));
         }
@@ -118,19 +119,23 @@
                 case "ArrowUp":
                     buttonDown("forward");
                     break;
-            
+
                 case "ArrowDown":
                     buttonDown("backward");
                     break;
-            
+
                 case "ArrowLeft":
                     buttonDown("left");
                     break;
-            
+
                 case "ArrowRight":
                     buttonDown("right");
                     break;
-            
+
+                case "Shift":
+                    shiftDown = true;
+                    break;
+
                 default:
                     break;
             }
@@ -143,7 +148,11 @@
                 case "ArrowRight":
                     buttonUp("key");
                     break;
-            
+
+                case "Shift":
+                    shiftDown = false;
+                    break;
+
                 default:
                     break;
             }

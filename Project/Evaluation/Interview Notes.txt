@@ -1,0 +1,46 @@
+##############
+# Interviews #
+##############
+
+
+Gruppe 1
+--------
+
+- Laut
+- Kante runterfallen
+- Blickwinkel (Verstellung nicht aufgefallen)
+- Untere Beleuchtung nicht aufgefallen
+- Ruckartige Bewegungen
+- Erschreckend
+- Vermutlich gut für Vortragend, Professoren, etc.
+
+Grppe 2
+-------
+- User stellt hochkant auf (unsicher)
+- Grün erkannt
+- Rad abgefallen
+
+- Winkel nur für kleine Tische geeignet
+- Winkelverstellung nicht aufgefallen
+- Tablet-Sicherung an der Seite
+- Hochkant gestellt, weil das Tablet gerade so da lag
+- Vielleicht Hochkant-Stellen verhindern
+
+Gruppe 3
+--------
+- Ohne Tablet-Hülle besser, weil sich nicht getraut wird, das Tablet stark herunterzudrücken
+- Knöpfe drückbar war nicht direkt ersichtlich (für beide)
+- Grün aufgefallen
+- Winkel ferngesteuert verstellen wäre gut
+- Gerät ist zu schnell und ruckartig
+- Tablet ist kurzzeitig vom Schalter gefallen -> Reset auf Freeze
+- Ein/Ausschalten ist intuitiv
+- Web UI: Links/rechts und turn wurde oft vertauscht -> Buttons tauschen?
+
+- Angst, dass es vom Tisch fährt
+- Wackelig
+- Blickwinkel aus Remote-Perspektive nicht klar (sieht Tischkante nicht)
+- Was passiert, wenn mehrere im Bild sind im Follow Modus? Wie fährt es (nur drehen?)
+- Das Gerät ist etwas unhandlich (nicht klappbar)
+- Tracking zu spät, Drehung zu abrupt
+- Button-Beschriftungen und Farbgebung gut, auch unter dem Gerät (anfangs nicht ganz klar, aber mit Änderung ersichtlich)
