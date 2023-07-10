@@ -100,6 +100,20 @@ We made many interesting observations when watching the participants interact wi
 * Some local participants did not notice the status LEDs below the device. We belief that this is because especially the red LEDs are not bright enough.
 * In our web interface, users often did not use the "turn left"/"turn right" buttons, but instead only the "left" and "right" buttons. We should probably swap their places to make the more important rotation buttons more prominent. Likewise, the left/right arrow keys should control the rotation and only need "shift" for driving sideways. 
 
+Here are some pictures of us doing the evaluation with the participants:
+
+at the beginning:
+
+![Evaluation](Figures/evaluation_pre_setup.jpg)
+
+our participants filling out the survey (Google Forms):
+
+![Evaluation](Figures/evaluation_surveys.jpg)
+
+one study participant while testing the rotating functionality:
+
+![Evaluation](Figures/evaluation.mp4)
+
 ### Online Surveys
 
 Both participants answered the same surveys. Some questions were more suitable for either the present or remote participant, but we always let both answer all questions from their perspectives. We evaluate them separately if appropriate.
