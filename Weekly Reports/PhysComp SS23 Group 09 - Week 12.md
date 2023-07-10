@@ -108,33 +108,33 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 ![](Figures/Pretest/_How%20frequently%20do%20you%20participate%20in%20hybrid%20meetings%20or%20remote%20collaborations.png){width=40%}
 
-![](Figures/Pretest/_Which%20device%20do%20you%20usually%20use%20for%20remote%20meetings.png)
+![](Figures/Pretest/_Which%20device%20do%20you%20usually%20use%20for%20remote%20meetings.png){width=40%}
 
-![](Figures/Pretest/_Please%20rate%20its%20effectiveness%20for%20your%20meetings.png)
+![](Figures/Pretest/_Please%20rate%20its%20effectiveness%20for%20your%20meetings.png){width=40%}
 
-![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png)
+![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png){width=40%}
 
-![](Figures/Pretest/_How%20familiar%20are%20you%20with%20telepresence%20devices%20or%20similar%20technologies_Please%20rate%20your%20familiarity.png)
+![](Figures/Pretest/_How%20familiar%20are%20you%20with%20telepresence%20devices%20or%20similar%20technologies_Please%20rate%20your%20familiarity.png){width=40%}
 
-![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png)
+![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png){width=40%}
 
-![](Figures/Pretest/_Have%20you%20used%20any%20rotating%20or%20tracking%20devices%20before_%20Please%20rate%20your%20experience%20with%20them.png)
+![](Figures/Pretest/_Have%20you%20used%20any%20rotating%20or%20tracking%20devices%20before_%20Please%20rate%20your%20experience%20with%20them.png){width=40%}
 
-![](Figures/Pretest/_How%20confident%20are%20you%20with%20using%20mobile%20apps%20or%20web-based%20interfaces%20for%20controlling%20physical%20devices_%20Please%20rate%20your%20level%20of%20confidence.png)
+![](Figures/Pretest/_How%20confident%20are%20you%20with%20using%20mobile%20apps%20or%20web-based%20interfaces%20for%20controlling%20physical%20devices_%20Please%20rate%20your%20level%20of%20confidence.png){width=40%}
 
-![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png)
+![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png){width=40%}
 
 Participants generally understand the idea of a telepresence device (some needed a short explanation during the survey). They saw a need for such devices. Many were not very familiar with telepresence devices, though. Also, more than half of our participants were not confident with controlling a physical device via web-based interface.
 
 #### Post-Test Survey
 
 
-![](Figures/Posttest/_How%20would%20you%20rate%20the%20ease%20of%20setup%20and%20initial%20configuration%20of%20the%20telepresence%20device.png)
+![](Figures/Posttest/_How%20would%20you%20rate%20the%20ease%20of%20setup%20and%20initial%20configuration%20of%20the%20telepresence%20device.png){width=40%}
 
-![](Figures/Posttest/_Did%20you%20feel%20that%20the%20telepresence%20device%20enhanced%20your%20ability%20to%20activelyengage%20in%20the%20hybrid%20meeting__.png)
+![](Figures/Posttest/_Did%20you%20feel%20that%20the%20telepresence%20device%20enhanced%20your%20ability%20to%20activelyengage%20in%20the%20hybrid%20meeting__.png){width=40%}
 
 
-![](Figures/Posttest/_Did%20you%20find%20the%20rotation%20functionality%20of%20the%20device%20effective%20in%20tracking%20your%20movements.png)
+![](Figures/Posttest/_Did%20you%20find%20the%20rotation%20functionality%20of%20the%20device%20effective%20in%20tracking%20your%20movements.png){width=40%}
 
 
 Was the mode selection intuitive?
@@ -144,22 +144,27 @@ How intuitive and user-friendly did you find the mobile app or web-based interfa
 > all participants using the interface answered with highly intuitive
 
 
-![](Figures/Posttest/_How%20secure%20and%20stable%20did%20you%20find%20the%20tablet_phone%20holder%20for%20different%20sizes%20of%20devices.png)
+![](Figures/Posttest/_How%20secure%20and%20stable%20did%20you%20find%20the%20tablet_phone%20holder%20for%20different%20sizes%20of%20devices.png){width=40%}
 
 
-![](Figures/Posttest/_How%20comfortable%20did%20you%20feel%20using%20the%20telepresence%20device%20during%20the%20test%20session.png)
+![](Figures/Posttest/_How%20comfortable%20did%20you%20feel%20using%20the%20telepresence%20device%20during%20the%20test%20session.png){width=40%}
 
 
-![](Figures/Posttest/_Were%20there%20any%20challenges%20or%20difficulties%20you%20encountered%20when%20adapting%20the%20device.png)
+![](Figures/Posttest/_Were%20there%20any%20challenges%20or%20difficulties%20you%20encountered%20when%20adapting%20the%20device.png){width=40%}
 
 
-![](Figures/Posttest/_What%20suggestions%20do%20you%20have%20for%20improving%20the%20overall%20usability%20and%20functionality.png)
+![](Figures/Posttest/_What%20suggestions%20do%20you%20have%20for%20improving%20the%20overall%20usability%20and%20functionality.png){width=40%}
 
 
-![](Figures/Posttest/_Based%20on%20your%20experience%2C%20would%20you%20consider%20using%20the%20telepresence%20device.png)
+![](Figures/Posttest/_Based%20on%20your%20experience%2C%20would%20you%20consider%20using%20the%20telepresence%20device.png){width=40%}
 
+Our participants found the setup easy. They liked the (simulated) automatic tracking. All participants agreed on the mode selection being intuitive. They all found the web interface to be highly intuitive. Participants criticized that the device was a bit unstable/unsecure. Participants were mostly comfortable during the session, but this did not apply to all.
 
+They gave us helpful feedback regarding a free space for the device and suitable ground and also pointed out that there would be fewer problems if the device only rotates. This is nothing really new to us, but it shows us that they understood the concept very well.
 
+Our participants suggested refining the movement behavior (less stuttery and noisy). They would like obstacle/edge detection and a more secure tablet holder that also secures the tablet on the sides.
+
+All except for one would use the device. One participant thinks that the device is overkill for small meetings.
 
 ### Post-Test Interview
 
