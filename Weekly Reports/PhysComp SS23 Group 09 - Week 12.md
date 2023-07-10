@@ -111,6 +111,7 @@ our participants filling out the survey (Google Forms):
 ![Evaluation](Figures/evaluation_surveys.jpg){width=40%}
 
 a remote participant in the other room:
+
 ![Evaluation](Figures/evaluationMirza.jpg){width=40%}
 
 one study participant while testing the rotating functionality:
