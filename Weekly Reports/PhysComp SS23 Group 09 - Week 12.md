@@ -104,15 +104,15 @@ Here are some pictures of us doing the evaluation with the participants:
 
 at the beginning:
 
-![Evaluation](Figures/evaluation_pre_setup.jpg)
+![Evaluation](Figures/evaluation_pre_setup.jpg){width=40%}
 
 our participants filling out the survey (Google Forms):
 
-![Evaluation](Figures/evaluation_surveys.jpg)
+![Evaluation](Figures/evaluation_surveys.jpg){width=40%}
 
 one study participant while testing the rotating functionality:
 
-![Evaluation](Figures/evaluation.mp4)
+![](Figures/evaluation.mp4)
 
 ### Online Surveys
 
