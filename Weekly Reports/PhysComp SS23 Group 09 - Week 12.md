@@ -106,7 +106,7 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 #### Pre-Test Survey
 
-![](Figures/Pretest/_How%20frequently%20do%20you%20participate%20in%20hybrid%20meetings%20or%20remote%20collaborations.png)
+![](Figures/Pretest/_How%20frequently%20do%20you%20participate%20in%20hybrid%20meetings%20or%20remote%20collaborations.png){width=40%}
 
 ![](Figures/Pretest/_Which%20device%20do%20you%20usually%20use%20for%20remote%20meetings.png)
 
@@ -124,6 +124,7 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 ![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png)
 
+Participants generally understand the idea of a telepresence device (some needed a short explanation during the survey). They saw a need for such devices. Many were not very familiar with telepresence devices, though. Also, more than half of our participants were not confident with controlling a physical device via web-based interface.
 
 #### Post-Test Survey
 
@@ -181,6 +182,8 @@ After the experiment and the post-test survey, we briefly interviewed our partic
 * At the beginning, it was not clear what the status LEDs below the device communicate (until they turned green exactly when the remote user "connected")
 
 ### Conclusions
+
+We are very happy that our participants liked our core concept. Participants found interaction with parts of the device that were in our main physical concept very intuitive, specifically powering the device on/off by placing/taking the tablet and the mode selection. This is especially good when considering that in the pre-test survey, many participants were not familiar with telepresence devices.
 
 We cannot make fundamental changes to our concept so shortly before the final presentation. For example, we cannot implement remote control for the vertical tablet angle. However, there are small things that we can polish:
 
