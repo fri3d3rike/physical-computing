@@ -31,6 +31,7 @@ We have not mounted the ultrasonic sensors and camera. This was not a problem be
 
 * Mount the ultrasonic sensors and camera
 * Incorporate some of the feedback from the evaluation: slower driving speed/acceleration, better web user interface
+* Implement some way of detecting a connected remote user so that we don't have to fake it
 * Maybe more improvements if there is time
 * Reach milestone 5
 * Send refund requests for the components we bought
@@ -203,6 +204,8 @@ After the experiment and the post-test survey, we briefly interviewed our partic
 * Sometimes, the automatic tracking is too slow (was simulated to be as realistic as possible)
 * Participants generally liked our front panel, the button labels, colors and feedback due to the LEDs lighting up
 * At the beginning, it was not clear what the status LEDs below the device communicate (until they turned green exactly when the remote user "connected")
+
+After the study, participants received a Kinder Bueno as a compensation for their time.
 
 ### Conclusions
 
