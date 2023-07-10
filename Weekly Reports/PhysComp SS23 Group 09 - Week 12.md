@@ -106,6 +106,25 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 #### Pre-Test Survey
 
+![](Figures/Pretest/_How%20frequently%20do%20you%20participate%20in%20hybrid%20meetings%20or%20remote%20collaborations.png)
+
+![](Figures/Pretest/_Which%20device%20do%20you%20usually%20use%20for%20remote%20meetings.png)
+
+![](Figures/Pretest/_Please%20rate%20its%20effectiveness%20for%20your%20meetings.png)
+
+![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png)
+
+![](Figures/Pretest/_How%20familiar%20are%20you%20with%20telepresence%20devices%20or%20similar%20technologies_Please%20rate%20your%20familiarity.png)
+
+![](Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png)
+
+![](Figures/Pretest/_Have%20you%20used%20any%20rotating%20or%20tracking%20devices%20before_%20Please%20rate%20your%20experience%20with%20them.png)
+
+![](Figures/Pretest/_How%20confident%20are%20you%20with%20using%20mobile%20apps%20or%20web-based%20interfaces%20for%20controlling%20physical%20devices_%20Please%20rate%20your%20level%20of%20confidence.png)
+
+![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png)
+
+
 #### Post-Test Survey
 
 ### Post-Test Interview
