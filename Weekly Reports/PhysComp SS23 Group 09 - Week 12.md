@@ -42,7 +42,7 @@ We have not mounted the ultrasonic sensors and camera. This was not a problem be
 
 We recruited our six participants from students of other courses. For that, we asked them personally or wrote them texts on WhatsApp. Students are a good representation of our target group because after the pandemic, they are very familiar with video calls and the problems that can arise. We recruited them between the 4th and 7th of July 2023.
 
-All participants signed letters of consent and aggreed on being recorded for our evaluation.
+All participants signed letters of consent and agreed on being recorded for our evaluation.
 
 We had three groups of two participants each. One participant participated in the meeting in a room with Friederike using our device. The other participant went to a different room with Mirza.
 
@@ -60,12 +60,12 @@ We changed some of the tasks to be more focused on the core concept and capabili
 One user (local) stays with Friederike and the device. The other one (remote) goes to another room with Mirza.
 
 - Task 1: Device Setup:   
-The local user is provided with a tablet which is already in a Zoom call with Mirza's laptop next door. The remote participant can hear the instructions for the local participant through the call. The local participant is asked to turn on the decive by placing the tablet in the holder.
+The local user is provided with a tablet which is already in a Zoom call with Mirza's laptop next door. The remote participant can hear the instructions for the local participant through the call. The local participant is asked to turn on the device by placing the tablet in the holder.
 
 While doing that we observe the user's experience during the setup process, noting any difficulties or confusion encountered.
 
 - Task 2: Switch Device into the Remote Mode:
-The user with the device is asked to switch from the default mode of the device into the Remote Mode. Then the user is asked to check the conection status of the device (simuluated by Mirza).
+The user with the device is asked to switch from the default mode of the device into the Remote Mode. Then the user is asked to check the connection status of the device (simulation by Mirza).
 
 - Task 3: Remote Control:
 The remote user is asked to move the device manually to look at Friederike who sits outside of his field of view next to the local participant.
@@ -76,7 +76,7 @@ We observe if the remote user can interact with the user interface. We instruct 
 - Task 4: Follow Mode Selection and Rotating Functionality:
 The local user is asked to select a mode that causes the device to automatically follow a person in front of it. They are encouraged to move around so that the device has to rotate to keep them in the video.
 
-We observe if the device successfully rotates according to the users input (simulated).
+We observe if the device successfully rotates according to the user's input (simulated).
 
 - Task 5: Freeze Mode selection:
 The users are instructed to set a mode that stops the device from moving and prevents remote control. We encourage the remote user to attempt to move the device.
@@ -156,11 +156,11 @@ Participants generally understand the idea of a telepresence device (some needed
 ![](Figures/Posttest/_Did%20you%20find%20the%20rotation%20functionality%20of%20the%20device%20effective%20in%20tracking%20your%20movements.png){width=40%}
 
 
-Was the mode selection intuitive?
-> all participants answered with highly intuitive
+Was the mode selection intuitive?  
+$\Rightarrow$  all participants answered with highly intuitive
 
-How intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device?
-> all participants using the interface answered with highly intuitive
+How intuitive and user-friendly did you find the mobile app or web-based interface for controlling the device?  
+$\Rightarrow$  all participants using the interface answered with highly intuitive
 
 
 ![](Figures/Posttest/_How%20secure%20and%20stable%20did%20you%20find%20the%20tablet_phone%20holder%20for%20different%20sizes%20of%20devices.png){width=40%}
@@ -169,19 +169,19 @@ How intuitive and user-friendly did you find the mobile app or web-based interfa
 ![](Figures/Posttest/_How%20comfortable%20did%20you%20feel%20using%20the%20telepresence%20device%20during%20the%20test%20session.png){width=40%}
 
 
-![](Figures/Posttest/_Were%20there%20any%20challenges%20or%20difficulties%20you%20encountered%20when%20adapting%20the%20device.png){width=40%}
+![](Figures/Posttest/_Were%20there%20any%20challenges%20or%20difficulties%20you%20encountered%20when%20adapting%20the%20device.png){width=60%}
 
 
-![](Figures/Posttest/_What%20suggestions%20do%20you%20have%20for%20improving%20the%20overall%20usability%20and%20functionality.png){width=40%}
+![](Figures/Posttest/_What%20suggestions%20do%20you%20have%20for%20improving%20the%20overall%20usability%20and%20functionality.png){width=60%}
 
 
-![](Figures/Posttest/_Based%20on%20your%20experience%2C%20would%20you%20consider%20using%20the%20telepresence%20device.png){width=40%}
+![](Figures/Posttest/_Based%20on%20your%20experience%2C%20would%20you%20consider%20using%20the%20telepresence%20device.png){width=60%}
 
 Our participants found the setup easy. They liked the (simulated) automatic tracking. All participants agreed on the mode selection being intuitive. They all found the web interface to be highly intuitive. Participants criticized that the device was a bit unstable/unsecure. Participants were mostly comfortable during the session, but this did not apply to all.
 
 They gave us helpful feedback regarding a free space for the device and suitable ground and also pointed out that there would be fewer problems if the device only rotates. This is nothing really new to us, but it shows us that they understood the concept very well.
 
-Our participants suggested refining the movement behavior (less stuttery and noisy). They would like obstacle/edge detection and a more secure tablet holder that also secures the tablet on the sides.
+Our participants suggested refining the movement behavior (less stuttering  and noisy). They would like obstacle/edge detection and a more secure tablet holder that also secures the tablet on the sides.
 
 All except for one would use the device. One participant thinks that the device is overkill for small meetings.
 
@@ -193,7 +193,7 @@ After the experiment and the post-test survey, we briefly interviewed our partic
 * They device might fall off the table
 * The tablet camera angle is not ideal for large tables
 * A way to remotely control the tablet angle vertically would help
-* The device moves stuttery
+* The device moves stuttering 
 * Unexpected movement scared someone
 * The device is probably very good for presenters like professors
 * A user placed the tablet in portrait orientation only because it already was this way on the table
@@ -202,7 +202,7 @@ After the experiment and the post-test survey, we briefly interviewed our partic
 * Unsure what happens if there are many people in front of the device in automatic following mode
 * The device is quite big and does not fit in a small bag, so it is not very portable
 * Sometimes, the automatic tracking is too slow (was simulated to be as realistic as possible)
-* Participants generally liked our front panel, the button labels, colors and feedback due to the LEDs lighting up
+* Participants generally liked our front panel, the button labels, colors, and feedback due to the LEDs lighting up
 * At the beginning, it was not clear what the status LEDs below the device communicate (until they turned green exactly when the remote user "connected")
 
 After the study, participants received a Kinder Bueno as a compensation for their time.
@@ -213,7 +213,7 @@ We are very happy that our participants liked our core concept. Participants fou
 
 We cannot make fundamental changes to our concept so shortly before the final presentation. For example, we cannot implement remote control for the vertical tablet angle. However, there are small things that we can polish:
 
-* We can reduce the motor speed to make the device less scary, loud and abrupt
+* We can reduce the motor speed to make the device less scary, loud, and abrupt
 * We can make the acceleration gradual to make movements smoother
 * We can swap the "turn" and sideways (left/right) buttons of our web interface
 * We can add ultrasonic sensors for edge detection (or at least the simulation of it for our presentation)
