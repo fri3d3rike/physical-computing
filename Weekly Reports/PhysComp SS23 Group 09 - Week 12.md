@@ -141,7 +141,7 @@ Both participants answered the same surveys. Some questions were more suitable f
 
 ![](Figures/Pretest/_How%20confident%20are%20you%20with%20using%20mobile%20apps%20or%20web-based%20interfaces%20for%20controlling%20physical%20devices_%20Please%20rate%20your%20level%20of%20confidence.png){width=40%}
 
-![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png){width=40%}
+![](Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png){width=60%}
 
 Participants generally understand the idea of a telepresence device (some needed a short explanation during the survey). They saw a need for such devices. Many were not very familiar with telepresence devices, though. Also, more than half of our participants were not confident with controlling a physical device via web-based interface.
 
