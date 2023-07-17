@@ -12,7 +12,27 @@ We implemented all of the missing hardware features and improved our software.
 * Changed the resistors for our red status LEDs from 220 Ohms to 120 Ohms to make them brighter
 * Improved the web UI: swapped the buttons/keys for turning and straving
 
+#### New web UI
 ![The web UI](Figures/webUI.png){width=40%}
+
+#### Final state of the electronics underneath the hood
+
+![Electronics](Figures/final_electronics.jpg){width=40%}
+
+![Electronics](Figures/electronics_final.jpg){width=40%}
+
+#### Final state of the prototype
+
+![final Prototype](Figures/finalPrototype.jpg){width=40%}
+
+![final Prototype with tablet](Figures/finalPrototype_withTablet.jpg){width=40%}
+
+![](Figures/prototype_moving.mp4)
+
+
+
+
+
 
 ### What we could not achieve this week
 
