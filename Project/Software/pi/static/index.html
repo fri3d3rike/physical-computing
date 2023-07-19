@@ -30,7 +30,7 @@
     <div id="main">
         <div class="row">
             <div class="column">
-                <button class="control" id="left" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
+                <button class="control" id="straveLeft" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
                     Left
                 </button>
             </div>
@@ -40,21 +40,21 @@
                 </button>
             </div>
             <div class="column">
-                <button class="control" id="right" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
+                <button class="control" id="straveRight" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
                     Right
                 </button>
             </div>
         </div>
         <div class="row">
             <div class="column">
-                <button class="control" id="turnLeft" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
+                <button class="control" id="left" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
                     Turn Left
                 </button>
             </div>
             <div class="column">
             </div>
             <div class="column">
-                <button class="control" id="turnRight" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
+                <button class="control" id="right" onmousedown="buttonDown(this.id)" onmouseup="buttonUp(this.id)">
                     Turn Right
                 </button>
             </div>
@@ -95,12 +95,12 @@
                     send(1 + (shiftDown ? 0 : 1), 1, (shiftDown ? leftRightSpeed : turnSpeed));
                     break;
 
-                case "turnLeft":
-                    send(2, 0, turnSpeed);
+                case "straveLeft":
+                    send(1, 0, leftRightSpeed);
                     break;
 
-                case "turnRight":
-                    send(2, 1, turnSpeed);
+                case "straveRight":
+                    send(1, 1, leftRightSpeed);
                     break;
 
                 default:
