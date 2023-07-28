@@ -13,7 +13,7 @@ The Arduino program is written in C and uses the Adafruit Motor Shield Library V
 * Direction
 * Motor speed
 
-The program reads the commands in a loop and then sets the motor speeds accordingly.
+The program reads the serial commands in a loop and then sets the motor speeds accordingly. The progrma can be uploaded run from any Arduino compatible IDE.
 
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 
