@@ -10,6 +10,8 @@ The ultrasonic sensors on the sides are wired up and working. However, we don't 
 
 ![](Figures/ultra_console.png){width=40%}
 
+Code by https://tutorials-raspberrypi.de/entfernung-messen-mit-ultraschallsensor-hc-sr04/
+
 We also asked other students whether we should encase the ultrasonic sensors. The voted for yes with 2:1 votes. Our prototype now looks more polished:
 
 ![](Figures/ultra_exposed.jpg){width=40%}
