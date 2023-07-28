@@ -44,7 +44,7 @@ Our prototype is a Telepresence Device designed for users attending hybrid meeti
 - The device has two out of three wired and working ultrasonic sensors to detect edges
 
 *what plans changed*:
-- We found a camera for the Raspberry Pi and then changed the concept to have a more independant device which does not also have to access the connected tablet/smartphone's camera
+- We found a camera for the Raspberry Pi and then changed the concept to have a more independent device which does not also have to access the connected tablet/smartphone's camera
 - We didn't fully implement the edge detection because we already planned in the beginning that that is not our main focus and we would only do it in the end, if we have enough time (optional goal)
 
 *what doesn't work*:
@@ -53,8 +53,8 @@ Our prototype is a Telepresence Device designed for users attending hybrid meeti
 - The edge detection: The ultrasonic sensors on the sides are wired up and working, only the one on the back is not wired. They do not force the device to stop yet, if an edge is detected. We did not implement it because we would not risk our device being damaged anyway.
 
 *what could work if...*:
-- All the things that are not completly functional yet could be improved to work if we would have had more time
-- The ultrasonic sensors, as well as the feedback LEDs are connected to the rasperry pi, they just need to be implemented in the code to fully work (use the sensor readings which we already have, create some kind of session in JavaScript for the LEDs)
+- All the things that are not completely functional yet could be improved to work if we would have had more time
+- The ultrasonic sensors, as well as the feedback LEDs are connected to the raspberry pi, they just need to be implemented in the code to fully work (use the sensor readings which we already have, create some kind of session in JavaScript for the LEDs)
 - The tracking would be a little bit more effort than the other things, but the camera is already connected and works and communicates with the pi, so we would need to get the library working. Then just send the appropriate motor commands if a face is detected far enough off-center.
 - If the device were a bit lighter, than the motors could go slower (yes, its counter-intuitive). After the evaluation, we reduced the speed, but an even slower speed might be desirable.
 
