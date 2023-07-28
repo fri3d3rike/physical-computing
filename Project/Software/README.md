@@ -19,7 +19,7 @@ https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 
 ## Raspberry Pi
 
-The Raspberry Pi is the brain of our prototype. Initially, we chose the Raspberry Pi because it is capable of image processing for the tracking mode. But since the actual tracking was not a top priority, we never actually implemented it. The main reason for that is that for some reason, the OpenCV library would not load the required modules. The Raspberry Pi handles all user input and sends commands to the Arduino. It provides the following functionality:
+The Raspberry Pi is the brain of our prototype. Initially, we chose the Raspberry Pi because it is capable of image processing for the tracking mode. But since the actual tracking was not a top priority, we never actually implemented it. The main reason for that is that for some reason, the OpenCV library would not load the required modules. The Raspberry Pi handles all user input and sends commands to the Arduino. We simulated functionality that is not implemented via SSH. The Raspberry Pi does the following:
 
 ### A web server that serves our web UI
 
