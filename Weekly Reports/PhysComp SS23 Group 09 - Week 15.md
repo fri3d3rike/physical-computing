@@ -58,6 +58,12 @@ Our prototype is a Telepresence Device designed for users attending hybrid meeti
 - The tracking would be a little bit more effort than the other things, but the camera is already connected and works and communicates with the pi, so we would need to get the library working. Then just send the appropriate motor commands if a face is detected far enough off-center.
 - If the device were a bit lighter, than the motors could go slower (yes, its counter-intuitive). After the evaluation, we reduced the speed, but an even slower speed might be desirable.
 
+### Demonstration
+
+You can access our final presentation as [PDF](PhysComp_SS23_Final_Presentation.pdf) and [PPTX](PhysComp_SS23_Group_09_Final_Presentation.pptx) (with some videos included).
+
+Here are some videos to show the prototype in action:
+
 ##### Setup 
 ![](Figures/Presentation/video-1.mp4)
 
