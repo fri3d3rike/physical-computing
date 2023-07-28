@@ -52,11 +52,12 @@ Our prototype is a Telepresence Device designed for users attending hybrid meeti
 - The feedback whether there is a connection to a remote (red/green status LEDs) user is not automatic yet (there is no login system)
 - The edge detection: The ultrasonic sensors on the sides are wired up and working, only the one on the back is not wired. They do not force the device to stop yet, if an edge is detected. We did not implement it because we would not risk our device being damaged anyway.
 
-*what could work if...*: reflect upon how future iterations could improve your prototype or what you would have done differently in retrospective
+*what could work if...*:
 future:
 - All the things that are not completly functional yet could be improved to work if we would have had more time
 - The ultrasonic sensors, as well as the feedback LEDs are connected to the rasperry pi, they just need to be implemented in the code to fully work (use the sensor readings which we already have, create some kind of session in JavaScript for the LEDs)
 - The tracking would be a little bit more effort than the other things, but the camera is already connected and works and communicates with the pi, so we would need to get the library working. Then just send the appropriate motor commands if a face is detected far enough off-center.
+- If the device were a bit lighter, than the motors could go slower (yes, its counter-intuitive). After the evaluation, we reduced the speed, but an even slower speed might be desirable.
 
 ##### Setup 
 ![](Figures/Presentation/video-1.mp4)
