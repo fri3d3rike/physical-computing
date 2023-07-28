@@ -6,6 +6,10 @@ As planned in our previous report, we added a third ultrasonic sensor in the bac
 
 ![](Figures/all_back.jpg){width=40%}
 
+The ultrasonic sensors on the sides are wired up and working. However, we don't trust them enough to test the edge detection when actually driving. Due to the weight of our device, the motors require a minimum power that makes it go quite fast. The measurements prove that it is indeed possible to detect an edge from the readings in theory.
+
+![](Figures/ultra_console.jpg){width=40%}
+
 We also asked other students whether we should encase the ultrasonic sensors. The voted for yes with 2:1 votes. Our prototype now looks more polished:
 
 ![](Figures/ultra_exposed.jpg){width=40%}
