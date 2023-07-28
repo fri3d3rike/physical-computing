@@ -37,6 +37,6 @@ The scripts ``red.sh``, ``green.sh`` and ``off.sh`` control the status LEDs belo
 
 ### A python program for testing the ultrasonic sensors
 
-The scripts ``ultra.py`` and ``ultra2.py`` poll fromt the left/right ultrasonic sensors. They show that the sensors are able to consistently detect edges. However, the data was never used because we did not want to risk our prototype breaking. Low motor speeds were not possible due to the weight, so the device was always a bit fast.
+The scripts ``ultra.py`` and ``ultra2.py`` poll from the left/right ultrasonic sensors. They show that the sensors are able to consistently detect edges. However, the data was never used because we did not want to risk our prototype breaking. Low motor speeds were not possible due to the weight, so the device was always a bit fast.
 
 We took the electronic circuit and code from https://tutorials-raspberrypi.de/entfernung-messen-mit-ultraschallsensor-hc-sr04/ (modified).
