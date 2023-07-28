@@ -17,23 +17,23 @@ what could work if...: reflect upon how future iterations could improve your pro
 
 2. In this post, include a video of your final prototype in action (e.g., the one from your slides). This is what will survive, even after your prototypes are take apart.
 
-Setup 
+##### Setup 
 ![](Figures/Presentation/video-1.mp4)
 
-Mode Selection
+##### Mode Selection
 ![](Figures/Presentation/video-2.mp4)
 
-Remote Modus: UseCase 1
+##### Remote Modus: UseCase 1
 ![](Figures/Presentation/video-3.mp4)
 
-Tracking Modus: UseCase 2
+##### Tracking Modus: UseCase 2
 ![](Figures/Presentation/trackingMode.mov)
 
-Edge Detection
+##### Edge Detection  
 ![](Figures/Presentation/edgeDetection.mov)
 
-Device Rotating
-![](Figures/Presentation/rotatingDevice.mp4)
+##### Device Rotating  
+![](Firgues/Presentation/rotatingDevice.mp4)
 
 
 
