@@ -33,7 +33,7 @@ what could work if...: reflect upon how future iterations could improve your pro
 ![](Figures/Presentation/edgeDetection.mov)
 
 ##### Device Rotating  
-![](Firgues/Presentation/rotatingDevice.mp4)
+![](Figures/Presentation/rotatingDevice.mp4)
 
 
 
