@@ -13,13 +13,13 @@ The Arduino program is written in C and uses the Adafruit Motor Shield Library V
 * Direction
 * Motor speed
 
-The program reads the serial commands in a loop and then sets the motor speeds accordingly. The progrma can be uploaded run from any Arduino compatible IDE.
+The program reads the serial commands in a loop and then sets the motor speeds accordingly. It also balances the speeds because one motor is weaker than the others. The progrma can be uploaded run from any Arduino compatible IDE.
 
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 
 ## Raspberry Pi
 
-The Raspberry Pi is the brain of our prototype. Initially, we chose the Raspberry Pi because it is capable of image processing for the tracking mode. But since the actual tracking was not a top priority, we never actually implemented it. The main reason for that is that for some reason, the OpenCV library would not load the required modules. The Raspberry Pi handles all user input and sends commands to the Arduino. We simulated functionality that is not implemented via SSH. The Raspberry Pi does the following:
+The Raspberry Pi is the brain of our prototype. It runs the latest Raspberry Pi OS Lite. Initially, we chose the Raspberry Pi because it is capable of image processing for the tracking mode. But since the actual tracking was not a top priority, we never actually implemented it. The main reason for that is that for some reason, the OpenCV library would not load the required modules. The Raspberry Pi handles all user input and sends commands to the Arduino. We simulated functionality that is not implemented via SSH. The Raspberry Pi does the following:
 
 ### A web server that serves our web UI
 
