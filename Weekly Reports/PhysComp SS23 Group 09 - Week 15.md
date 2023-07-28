@@ -60,7 +60,7 @@ Our prototype is a Telepresence Device designed for users attending hybrid meeti
 
 ### Demonstration
 
-You can access our final presentation as [PDF](PhysComp_SS23_Final_Presentation.pdf) and [PPTX](PhysComp_SS23_Group_09_Final_Presentation.pptx) (with some videos included).
+You can access our final presentation as [PDF](../Project/Concept/PhysComp_SS23_Final_Presentation.pdf) and [PPTX](../Project/Concept/PhysComp_SS23_Group_09_Final_Presentation.pptx) (with some videos included).
 
 Here are some videos to show the prototype in action:
 
