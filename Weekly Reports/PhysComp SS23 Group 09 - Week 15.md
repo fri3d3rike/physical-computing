@@ -4,18 +4,18 @@
 
 As planned in our previous report, we added a third ultrasonic sensor in the back. This way, there is no risk of driving off an edge when going backward. There is no ultrasonic sensor in the front because we found nowhere to put it, it would look stupid and it also is not really necessary since you can see where you are going when driving forward.
 
-![](Figures/all_back.jpg){width=40%}
+![](Figures/all_back.jpg){width=20%}
 
 The ultrasonic sensors on the sides are wired up and working. However, we don't trust them enough to test the edge detection when actually driving. Due to the weight of our device, the motors require a minimum power that makes it go quite fast. The measurements prove that it is indeed possible to detect an edge from the readings in theory.
 
-![](Figures/ultra_console.png){width=40%}
+![](Figures/ultra_console.png){width=20%}
 
 Code by https://tutorials-raspberrypi.de/entfernung-messen-mit-ultraschallsensor-hc-sr04/
 
 We also asked other students whether we should encase the ultrasonic sensors. The voted for yes with 2:1 votes. Our prototype now looks more polished:
 
-![](Figures/ultra_exposed.jpg){width=40%}
-![](Figures/ultra_encased.jpg){width=40%}
+![](Figures/ultra_exposed.jpg){width=20%}
+![](Figures/ultra_encased.jpg){width=20%}
 
 We decided that it isn't worth the effort to do more programming or even try to implement more functionality. Proper tracking would be nice, but also very time consuming to implement. We fixed a few bugs with the UI, though. In its current state, with a little bit of magic, our prototype can exactly showcase our whole vision for the telepresence system. This is why we call it complete and milestone 5 is reached (almost on time).
 
