@@ -124,10 +124,10 @@ Both participants answered the same surveys. Some questions were more suitable f
 <img src="Figures/Pretest/_Which%20device%20do%20you%20usually%20use%20for%20remote%20meetings.png" alt="Pre-Test Survey" width="40%">
 <img src="Figures/Pretest/_Please%20rate%20its%20effectiveness%20for%20your%20meetings.png" alt="Pre-Test Survey" width="40%">
 <img src="Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png" alt="Pre-Test Survey" width="40%">
-<img src="Figures/Pretest/_How%20familiar%20are%20you%20with%20telepresence%20devices%20or%20similar%20technologies_Please%20rate%20your%20familiarity.png" alt="Pre-Test Survey" width="40%">
+<img src="Figures/Pretest/_How%20familiar.png" alt="Pre-Test Survey" width="40%">
 <img src="Figures/Pretest/_How%20important%20is%20it%20for%20you%20to%20actively%20engage%20and%20contribute%20during%20remote%20meetings.png" alt="Pre-Test Survey" width="40%">
 <img src="Figures/Pretest/_Have%20you%20used%20any%20rotating%20or%20tracking%20devices%20before_%20Please%20rate%20your%20experience%20with%20them.png" alt="Pre-Test Survey" width="40%">
-<img src="Figures/Pretest/_How%20confident%20are%20you%20with%20using%20mobile%20apps%20or%20web-based%20interfaces%20for%20controlling%20physical%20devices_%20Please%20rate%20your%20level%20of%20confidence.png" alt="Pre-Test Survey" width="40%">
+<img src="Figures/Pretest/_How%20confident.png" alt="Pre-Test Survey" width="40%">
 <img src="Figures/Pretest/_What%20features%20or%20functionalities%20do%20you%20expect%20from%20a%20telepresence%20device%20for%20hybrid%20meetings.png" alt="Pre-Test Survey" width="60%">
 
 Participants generally understand the idea of a telepresence device (some needed a short explanation during the survey). They saw a need for such devices. Many were not very familiar with telepresence devices, though. Also, more than half of our participants were not confident with controlling a physical device via web-based interface.
@@ -135,7 +135,7 @@ Participants generally understand the idea of a telepresence device (some needed
 #### Post-Test Survey
 
 <img src="Figures/Posttest/_How%20would%20you%20rate%20the%20ease%20of%20setup%20and%20initial%20configuration%20of%20the%20telepresence%20device.png" alt="Post-Test Survey" width="40%">
-<img src="Figures/Posttest/_Did%20you%20feel%20that%20the%20telepresence%20device%20enhanced%20your%20ability%20to%20activelyengage%20in%20the%20hybrid%20meeting__.png" alt="Post-Test Survey" width="40%">
+<img src="Figures/Posttest/_Did%20you%20feel.png" alt="Post-Test Survey" width="40%">
 <img src="Figures/Posttest/_Did%20you%20find%20the%20rotation%20functionality%20of%20the%20device%20effective%20in%20tracking%20your%20movements.png" alt="Post-Test Survey" width="40%">
 
 Was the mode selection intuitive?  
