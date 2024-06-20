@@ -10,33 +10,24 @@ We implemented all of the missing hardware features and improved our software.
 * Added ultrasonic sensors, they are wired up and give measurements
 * Added cardboard brackets that hold the tablet in place
 * Changed the resistors for our red status LEDs from 220 Ohms to 120 Ohms to make them brighter
-* Improved the web UI: swapped the buttons/keys for turning and straving
+* Improved the web UI: swapped the buttons/keys for turning and strafing
 
 #### New web UI
-![The web UI](Figures/webUI.png){width=40%}
+<img src="Figures/webUI.png" alt="The web UI" width="40%">
 
 #### Final state of the electronics underneath the hood
-
-![Electronics](Figures/final_electronics.jpg){width=40%}
-
-![Electronics](Figures/electronics_final.jpg){width=40%}
+<img src="Figures/final_electronics.jpg" alt="Electronics" width="40%">
+<img src="Figures/electronics_final.jpg" alt="Electronics" width="40%">
 
 #### Final state of the prototype
+<img src="Figures/finalPrototype.jpg" alt="Final Prototype" width="40%">
+<img src="Figures/finalPrototype_withTablet.jpg" alt="Final Prototype with Tablet" width="40%">
 
-![final Prototype](Figures/finalPrototype.jpg){width=40%}
-
-![final Prototype with tablet](Figures/finalPrototype_withTablet.jpg){width=40%}
-
-![](Figures/prototype_moving.mp4)
-
-
-
-
-
+<video src="Figures/prototype_moving.mp4" controls width="100%"></video>
 
 ### What we could not achieve this week
 
-We haven't added four ultrasonic sensor, only two.
+We haven't added four ultrasonic sensors, only two.
 
 ### What we plan to do for the coming week
 
